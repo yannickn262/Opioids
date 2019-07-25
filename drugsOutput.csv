@@ -1,0 +1,5106 @@
+,Age,Sex,Race
+0,,,
+1,48.0,Male,Black
+2,30.0,Female,White
+3,23.0,Male,White
+4,22.0,Male,"Asian, Other"
+5,23.0,Male,White
+6,21.0,Female,White
+7,40.0,Female,White
+8,40.0,Male,White
+9,50.0,Male,White
+10,26.0,Female,"Hispanic, White"
+11,49.0,Female,White
+12,,,
+13,50.0,Male,White
+14,29.0,Male,Black
+15,45.0,Male,White
+16,29.0,Female,White
+17,42.0,Male,White
+18,54.0,Male,White
+19,32.0,Male,White
+20,47.0,Male,White
+21,39.0,Female,White
+22,27.0,Male,
+23,34.0,Male,White
+24,27.0,Female,White
+25,25.0,Male,White
+26,51.0,Male,White
+27,23.0,Male,White
+28,35.0,Male,White
+29,25.0,Male,"Hispanic, White"
+30,43.0,Male,White
+31,48.0,Male,White
+32,40.0,Female,White
+33,49.0,Female,White
+34,40.0,Male,Black
+35,51.0,Male,White
+36,25.0,Male,White
+37,55.0,Female,White
+38,56.0,Male,Black
+39,39.0,Male,White
+40,28.0,Male,White
+41,35.0,Female,White
+42,34.0,Male,White
+43,23.0,Male,White
+44,39.0,Male,White
+45,49.0,Female,"Hispanic, White"
+46,49.0,Male,White
+47,50.0,Male,"Hispanic, White"
+48,49.0,Male,White
+49,30.0,Male,White
+50,67.0,Female,White
+51,36.0,Male,"Hispanic, White"
+52,54.0,Male,White
+53,43.0,Male,White
+54,25.0,Male,White
+55,54.0,Male,White
+56,54.0,Female,White
+57,23.0,Male,White
+58,52.0,Male,White
+59,54.0,Male,"Hispanic, White"
+60,61.0,Male,White
+61,53.0,Male,White
+62,42.0,Male,White
+63,41.0,Male,White
+64,34.0,Male,White
+65,32.0,Male,White
+66,31.0,Male,Asian Indian
+67,29.0,Male,White
+68,57.0,Male,White
+69,24.0,Female,White
+70,26.0,Male,White
+71,25.0,Female,White
+72,55.0,Male,White
+73,40.0,Male,White
+74,37.0,Female,White
+75,43.0,Male,White
+76,38.0,Male,White
+77,42.0,Male,White
+78,58.0,Female,White
+79,42.0,Male,White
+80,51.0,Male,White
+81,59.0,Male,White
+82,36.0,Female,White
+83,50.0,Male,White
+84,59.0,Male,White
+85,41.0,Male,"Hispanic, White"
+86,25.0,Female,Black
+87,46.0,Male,White
+88,26.0,Male,White
+89,47.0,Male,White
+90,37.0,Male,White
+91,41.0,Male,White
+92,30.0,Female,White
+93,54.0,Female,White
+94,34.0,Male,White
+95,32.0,Male,White
+96,37.0,Male,White
+97,53.0,Male,White
+98,30.0,Female,White
+99,38.0,Female,White
+100,26.0,Male,"Asian, Other"
+101,36.0,Male,Black
+102,40.0,Male,Black
+103,48.0,Male,White
+104,23.0,Male,White
+105,64.0,Male,White
+106,26.0,Female,White
+107,38.0,Male,Black
+108,43.0,Female,White
+109,37.0,Male,White
+110,57.0,Male,White
+111,52.0,Male,White
+112,51.0,Male,"Hispanic, White"
+113,60.0,Male,White
+114,43.0,Male,White
+115,47.0,Male,White
+116,52.0,Male,White
+117,44.0,Male,Black
+118,36.0,Female,White
+119,26.0,Male,White
+120,42.0,Male,White
+121,30.0,Male,White
+122,30.0,Male,"Hispanic, White"
+123,33.0,Female,White
+124,67.0,Male,White
+125,30.0,Female,White
+126,33.0,Male,White
+127,23.0,Male,White
+128,31.0,Male,White
+129,44.0,Male,White
+130,54.0,Male,White
+131,48.0,Male,White
+132,44.0,Male,"Hispanic, White"
+133,40.0,Female,Black
+134,37.0,Male,White
+135,24.0,Male,White
+136,49.0,Male,"Hispanic, White"
+137,43.0,Male,White
+138,50.0,Male,White
+139,36.0,Male,White
+140,20.0,Male,White
+141,46.0,Female,Black
+142,50.0,Male,White
+143,33.0,Male,White
+144,58.0,Male,White
+145,49.0,Male,White
+146,36.0,Male,White
+147,35.0,Male,White
+148,52.0,Male,White
+149,41.0,Male,White
+150,28.0,Male,White
+151,37.0,Male,White
+152,56.0,Female,White
+153,48.0,Female,White
+154,46.0,Male,White
+155,53.0,Male,White
+156,45.0,Male,White
+157,52.0,Male,White
+158,64.0,Male,White
+159,42.0,Female,White
+160,23.0,Male,"Hispanic, White"
+161,43.0,Male,White
+162,19.0,Female,White
+163,38.0,Female,White
+164,47.0,Female,White
+165,59.0,Female,White
+166,22.0,Male,White
+167,29.0,Female,White
+168,45.0,Male,White
+169,34.0,Male,White
+170,30.0,Male,White
+171,24.0,Male,White
+172,39.0,Male,White
+173,66.0,Male,White
+174,26.0,Male,White
+175,40.0,Male,White
+176,44.0,Female,"Hispanic, Black"
+177,40.0,Male,White
+178,42.0,Male,White
+179,32.0,Male,White
+180,54.0,Male,White
+181,22.0,Male,White
+182,49.0,Female,White
+183,31.0,Male,White
+184,25.0,Male,White
+185,44.0,Male,"Hispanic, White"
+186,38.0,Female,White
+187,31.0,Female,White
+188,38.0,Male,"Hispanic, White"
+189,63.0,Male,White
+190,40.0,Male,White
+191,61.0,Male,"Hispanic, White"
+192,38.0,Male,White
+193,50.0,Male,White
+194,35.0,Female,White
+195,62.0,Male,White
+196,59.0,Male,White
+197,24.0,Female,White
+198,64.0,Male,White
+199,39.0,Male,"Hispanic, White"
+200,56.0,Male,White
+201,29.0,Male,White
+202,28.0,Male,White
+203,31.0,Male,White
+204,48.0,Male,"Hispanic, White"
+205,49.0,Female,"Hispanic, White"
+206,25.0,Male,White
+207,51.0,Female,White
+208,28.0,Female,White
+209,59.0,Female,White
+210,26.0,Male,White
+211,48.0,Male,"Hispanic, White"
+212,52.0,Female,White
+213,47.0,Male,White
+214,63.0,Female,White
+215,39.0,Female,White
+216,47.0,Male,White
+217,27.0,Male,White
+218,45.0,Male,White
+219,44.0,Male,Black
+220,65.0,Male,Black
+221,30.0,Male,White
+222,52.0,Male,White
+223,46.0,Male,Black
+224,52.0,Male,White
+225,33.0,Male,White
+226,56.0,Male,Black
+227,36.0,Male,White
+228,61.0,Male,Black
+229,29.0,Male,"Hispanic, White"
+230,41.0,Male,White
+231,63.0,Male,White
+232,54.0,Male,Black
+233,47.0,Male,White
+234,32.0,Female,White
+235,45.0,Male,Black
+236,54.0,Male,White
+237,31.0,Male,White
+238,30.0,Male,White
+239,24.0,Male,White
+240,45.0,Male,White
+241,51.0,Male,White
+242,51.0,Female,White
+243,44.0,Male,"Hispanic, White"
+244,27.0,Male,White
+245,26.0,Male,White
+246,56.0,Male,White
+247,47.0,Male,White
+248,37.0,Male,White
+249,44.0,Male,"Hispanic, White"
+250,47.0,Female,White
+251,29.0,Female,White
+252,60.0,Male,White
+253,55.0,Male,White
+254,35.0,Male,White
+255,62.0,Male,Black
+256,49.0,Female,White
+257,43.0,Male,Black
+258,51.0,Male,Black
+259,37.0,Male,Black
+260,60.0,Male,White
+261,37.0,Male,"Hispanic, White"
+262,59.0,Female,White
+263,71.0,Male,White
+264,30.0,Male,Black
+265,51.0,Male,White
+266,47.0,Male,White
+267,51.0,Female,White
+268,22.0,Female,White
+269,43.0,Female,"Hispanic, White"
+270,30.0,Male,White
+271,50.0,Male,White
+272,44.0,Male,White
+273,26.0,Male,White
+274,47.0,Male,White
+275,27.0,Male,White
+276,28.0,Male,White
+277,57.0,Male,Black
+278,35.0,Male,White
+279,52.0,Male,White
+280,50.0,Male,Black
+281,59.0,Male,White
+282,29.0,Male,Black
+283,29.0,Female,White
+284,62.0,Female,White
+285,38.0,Male,White
+286,36.0,Female,White
+287,34.0,Male,White
+288,49.0,Male,White
+289,45.0,Female,White
+290,21.0,Female,White
+291,23.0,Male,White
+292,55.0,Male,White
+293,33.0,Male,White
+294,28.0,Female,White
+295,21.0,Male,White
+296,46.0,Male,White
+297,38.0,Male,White
+298,47.0,Female,White
+299,46.0,Male,White
+300,45.0,Male,White
+301,71.0,Male,Black
+302,48.0,Male,White
+303,53.0,Male,White
+304,47.0,Female,"Hispanic, White"
+305,24.0,Female,White
+306,63.0,Male,White
+307,47.0,Male,White
+308,34.0,Male,"Hispanic, White"
+309,56.0,Female,White
+310,29.0,Male,Black
+311,50.0,Male,White
+312,35.0,Male,White
+313,56.0,Female,Black
+314,24.0,Male,White
+315,63.0,Female,White
+316,35.0,Male,White
+317,58.0,Male,"Hispanic, White"
+318,45.0,Male,"Hispanic, White"
+319,36.0,Male,"Hispanic, White"
+320,28.0,Male,White
+321,40.0,Female,"Hispanic, White"
+322,27.0,Male,White
+323,54.0,Female,Black
+324,49.0,Female,White
+325,50.0,Male,White
+326,59.0,Male,White
+327,36.0,Male,White
+328,62.0,Female,White
+329,28.0,Male,White
+330,20.0,Male,White
+331,34.0,Female,White
+332,36.0,Male,White
+333,33.0,Male,"Hispanic, White"
+334,29.0,Male,White
+335,51.0,Female,White
+336,44.0,Male,"Hispanic, White"
+337,31.0,Male,White
+338,40.0,Female,White
+339,54.0,Male,"Hispanic, White"
+340,60.0,Male,White
+341,44.0,Female,White
+342,27.0,Male,White
+343,39.0,Male,White
+344,57.0,Female,Black
+345,59.0,Male,White
+346,33.0,Female,White
+347,53.0,Male,White
+348,30.0,Male,Asian Indian
+349,37.0,Male,Black
+350,22.0,Male,White
+351,31.0,Female,White
+352,24.0,Male,White
+353,56.0,Male,White
+354,20.0,Female,White
+355,29.0,Female,White
+356,26.0,Male,White
+357,39.0,Male,White
+358,35.0,Female,White
+359,45.0,Male,White
+360,34.0,Male,"Hispanic, White"
+361,33.0,Male,White
+362,71.0,Female,White
+363,30.0,Female,Black
+364,63.0,Male,White
+365,39.0,Male,White
+366,29.0,Female,White
+367,31.0,Male,White
+368,59.0,Male,White
+369,58.0,Male,White
+370,38.0,Male,White
+371,60.0,Male,"Hispanic, White"
+372,28.0,Female,White
+373,39.0,Male,White
+374,46.0,Male,White
+375,60.0,Male,Black
+376,36.0,Male,White
+377,60.0,Female,White
+378,24.0,Male,White
+379,53.0,Male,White
+380,42.0,Male,White
+381,34.0,Male,White
+382,49.0,Female,White
+383,22.0,Male,White
+384,60.0,Male,White
+385,50.0,Male,White
+386,59.0,Male,White
+387,73.0,Male,White
+388,54.0,Male,White
+389,58.0,Male,"Hispanic, White"
+390,28.0,Male,White
+391,40.0,Male,White
+392,49.0,Male,Black
+393,43.0,Male,"Hispanic, White"
+394,52.0,Female,White
+395,49.0,Male,White
+396,52.0,Male,Black
+397,39.0,Male,Black
+398,41.0,Female,White
+399,34.0,Male,White
+400,42.0,Male,White
+401,68.0,Male,White
+402,43.0,Male,"Hispanic, White"
+403,40.0,Female,White
+404,32.0,Male,White
+405,38.0,Male,White
+406,33.0,Female,White
+407,42.0,Female,White
+408,53.0,Male,White
+409,36.0,Male,White
+410,54.0,Male,White
+411,42.0,Male,White
+412,48.0,Male,"Hispanic, White"
+413,50.0,Female,White
+414,28.0,Male,White
+415,41.0,Male,White
+416,24.0,Male,White
+417,42.0,Male,White
+418,43.0,Female,White
+419,48.0,Female,White
+420,45.0,Male,White
+421,47.0,Male,Black
+422,39.0,Male,"Hispanic, White"
+423,39.0,Male,White
+424,46.0,Female,White
+425,57.0,Male,White
+426,41.0,Male,"Hispanic, White"
+427,23.0,Female,White
+428,51.0,Male,White
+429,46.0,Male,Black
+430,52.0,Male,White
+431,31.0,Male,White
+432,35.0,Male,Black
+433,69.0,Male,White
+434,38.0,Male,White
+435,42.0,Male,"Hispanic, White"
+436,65.0,Male,White
+437,53.0,Male,White
+438,45.0,Male,White
+439,30.0,Male,White
+440,23.0,Male,"Hispanic, White"
+441,54.0,Female,White
+442,23.0,Male,Black
+443,51.0,Male,White
+444,46.0,Female,White
+445,28.0,Male,White
+446,57.0,Female,White
+447,67.0,Male,White
+448,28.0,Male,White
+449,38.0,Male,White
+450,53.0,Female,Black
+451,54.0,Male,White
+452,40.0,Male,White
+453,56.0,Male,White
+454,49.0,Male,White
+455,75.0,Male,Black
+456,57.0,Female,Black
+457,32.0,Male,"Hispanic, White"
+458,51.0,Male,White
+459,33.0,Male,White
+460,37.0,Male,White
+461,28.0,Male,White
+462,48.0,Female,Black
+463,55.0,Female,White
+464,31.0,Male,White
+465,48.0,Male,White
+466,31.0,Male,White
+467,41.0,Male,White
+468,27.0,Male,White
+469,25.0,Male,Black
+470,36.0,Male,White
+471,34.0,Male,"Hispanic, White"
+472,23.0,Male,White
+473,58.0,Male,White
+474,52.0,Male,White
+475,55.0,Male,White
+476,49.0,Male,White
+477,40.0,Female,White
+478,30.0,Male,White
+479,34.0,Male,"Asian, Other"
+480,46.0,Female,Black
+481,60.0,Female,White
+482,31.0,Male,White
+483,45.0,Male,White
+484,46.0,Male,White
+485,48.0,Female,Black
+486,36.0,Male,White
+487,25.0,Male,White
+488,33.0,Male,White
+489,56.0,Male,Black
+490,35.0,Female,White
+491,54.0,Male,"Hispanic, White"
+492,36.0,Male,White
+493,63.0,Male,Black
+494,36.0,Male,White
+495,30.0,Female,White
+496,67.0,Male,White
+497,23.0,Female,White
+498,24.0,Male,"Hispanic, White"
+499,50.0,Male,Black
+500,59.0,Male,White
+501,28.0,Male,White
+502,47.0,Male,White
+503,53.0,Male,White
+504,61.0,Male,"Hispanic, White"
+505,39.0,Female,White
+506,45.0,Male,Black
+507,49.0,Male,"Hispanic, White"
+508,33.0,Male,White
+509,45.0,Male,White
+510,44.0,Male,"Hispanic, White"
+511,45.0,Male,Black
+512,35.0,Male,White
+513,56.0,Female,White
+514,50.0,Male,White
+515,63.0,Male,White
+516,25.0,Male,White
+517,38.0,Male,"Hispanic, White"
+518,29.0,Male,White
+519,31.0,Female,White
+520,42.0,Male,White
+521,44.0,Male,White
+522,26.0,Male,White
+523,60.0,Male,"Hispanic, White"
+524,55.0,Male,White
+525,33.0,Male,White
+526,69.0,Male,"Hispanic, White"
+527,61.0,Male,White
+528,32.0,Female,White
+529,50.0,Male,White
+530,34.0,Female,White
+531,62.0,Male,Black
+532,48.0,Male,"Hispanic, White"
+533,25.0,Male,"Hispanic, White"
+534,23.0,Female,White
+535,35.0,Male,White
+536,50.0,Male,White
+537,54.0,Female,White
+538,27.0,Female,"Hispanic, White"
+539,67.0,Male,White
+540,36.0,Female,White
+541,33.0,Male,White
+542,55.0,Male,White
+543,28.0,Male,White
+544,43.0,Female,Black
+545,61.0,Male,White
+546,54.0,Female,"Hispanic, White"
+547,62.0,Male,White
+548,36.0,Female,White
+549,29.0,Male,White
+550,62.0,Male,White
+551,19.0,Male,"Hispanic, White"
+552,28.0,Male,White
+553,29.0,Female,White
+554,28.0,Female,"Hispanic, White"
+555,51.0,Female,White
+556,48.0,Male,White
+557,33.0,Female,Black
+558,37.0,Male,White
+559,43.0,Male,White
+560,44.0,Female,White
+561,58.0,Male,"Hispanic, Black"
+562,51.0,Female,White
+563,36.0,Male,Black
+564,29.0,Female,Asian Indian
+565,31.0,Female,"Hispanic, White"
+566,32.0,Male,White
+567,33.0,Male,White
+568,50.0,Male,White
+569,24.0,Male,White
+570,38.0,Male,White
+571,42.0,Male,White
+572,43.0,Female,Black
+573,54.0,Female,White
+574,30.0,Male,White
+575,43.0,Male,White
+576,50.0,Female,White
+577,51.0,Female,"Hispanic, White"
+578,65.0,Male,White
+579,65.0,Male,"Hispanic, Black"
+580,46.0,Male,White
+581,29.0,Male,White
+582,57.0,Female,White
+583,28.0,Male,White
+584,52.0,Female,White
+585,26.0,Female,"Hispanic, White"
+586,23.0,Male,"Hispanic, White"
+587,58.0,Male,White
+588,42.0,Male,White
+589,42.0,Male,White
+590,55.0,Male,"Hispanic, White"
+591,46.0,Male,White
+592,55.0,Male,White
+593,25.0,Female,"Hispanic, White"
+594,57.0,Male,White
+595,46.0,Male,White
+596,38.0,Male,White
+597,45.0,Male,White
+598,49.0,Male,White
+599,40.0,Male,Black
+600,36.0,Male,White
+601,54.0,Male,White
+602,25.0,Male,Black
+603,55.0,Female,White
+604,57.0,Male,White
+605,25.0,Male,"Hispanic, White"
+606,47.0,Male,White
+607,33.0,Female,"Hispanic, White"
+608,58.0,Male,White
+609,43.0,Male,White
+610,41.0,Male,White
+611,47.0,Male,"Hispanic, White"
+612,34.0,Male,White
+613,56.0,Female,White
+614,56.0,Male,White
+615,29.0,Male,White
+616,47.0,Male,White
+617,24.0,Female,White
+618,36.0,Female,White
+619,53.0,Female,White
+620,45.0,Female,White
+621,58.0,Female,White
+622,40.0,Male,Black
+623,60.0,Male,"Hispanic, White"
+624,35.0,Male,White
+625,46.0,Male,White
+626,25.0,Male,White
+627,31.0,Male,White
+628,36.0,Male,White
+629,28.0,Female,White
+630,54.0,Female,White
+631,36.0,Male,Black
+632,46.0,Male,White
+633,72.0,Female,White
+634,42.0,Male,"Hispanic, White"
+635,38.0,Male,White
+636,54.0,Male,"Hispanic, White"
+637,19.0,Male,White
+638,45.0,Male,White
+639,38.0,Female,"Hispanic, White"
+640,36.0,Male,White
+641,45.0,Female,White
+642,30.0,Male,White
+643,43.0,Female,White
+644,28.0,Male,White
+645,42.0,Male,White
+646,26.0,Female,White
+647,50.0,Female,White
+648,61.0,Male,White
+649,51.0,Male,"Hispanic, White"
+650,36.0,Male,White
+651,44.0,Male,White
+652,60.0,Female,White
+653,25.0,Male,"Hispanic, White"
+654,32.0,Female,"Hispanic, White"
+655,34.0,Male,White
+656,53.0,Female,White
+657,37.0,Female,White
+658,40.0,Male,White
+659,37.0,Female,White
+660,34.0,Male,White
+661,26.0,Male,White
+662,27.0,Male,White
+663,31.0,Male,White
+664,40.0,Female,White
+665,47.0,Female,"Hispanic, White"
+666,55.0,Male,Black
+667,59.0,Male,"Hispanic, White"
+668,44.0,Male,White
+669,54.0,Male,"Hispanic, White"
+670,59.0,Female,White
+671,55.0,Female,White
+672,21.0,Male,White
+673,47.0,Male,"Hispanic, White"
+674,44.0,Male,
+675,47.0,Male,White
+676,57.0,Male,White
+677,48.0,Male,"Hispanic, White"
+678,35.0,Male,White
+679,24.0,Male,White
+680,34.0,Male,"Hispanic, White"
+681,42.0,Male,White
+682,41.0,Female,White
+683,34.0,Male,Unknown
+684,44.0,Male,White
+685,40.0,Male,"Hispanic, White"
+686,34.0,Male,White
+687,31.0,Male,White
+688,31.0,Female,White
+689,25.0,Male,White
+690,41.0,Female,White
+691,36.0,Male,"Hispanic, White"
+692,27.0,Female,White
+693,46.0,Male,White
+694,30.0,Male,White
+695,60.0,Male,White
+696,35.0,Male,White
+697,42.0,Male,"Hispanic, White"
+698,29.0,Male,White
+699,43.0,Female,White
+700,43.0,Male,White
+701,39.0,Female,White
+702,22.0,Male,"Hispanic, White"
+703,38.0,Male,White
+704,23.0,Male,White
+705,46.0,Male,"Hispanic, White"
+706,40.0,Female,White
+707,50.0,Male,White
+708,31.0,Male,White
+709,55.0,Male,White
+710,51.0,Female,White
+711,45.0,Male,"Hispanic, White"
+712,35.0,Male,White
+713,46.0,Male,White
+714,23.0,Female,White
+715,28.0,Female,White
+716,52.0,Male,Black
+717,59.0,Male,White
+718,46.0,Female,White
+719,43.0,Male,White
+720,55.0,Male,White
+721,47.0,Male,White
+722,39.0,Female,White
+723,32.0,Male,White
+724,36.0,Male,White
+725,62.0,Female,White
+726,33.0,Male,"Hispanic, White"
+727,41.0,Male,White
+728,30.0,Male,White
+729,50.0,Male,"Hispanic, White"
+730,30.0,Male,White
+731,39.0,Male,White
+732,66.0,Male,Black
+733,21.0,Male,White
+734,35.0,Female,White
+735,57.0,Male,White
+736,52.0,Female,White
+737,32.0,Female,White
+738,28.0,Male,White
+739,33.0,Male,White
+740,55.0,Female,White
+741,21.0,Female,White
+742,36.0,Male,White
+743,52.0,Male,White
+744,53.0,Male,Black
+745,54.0,Male,"Hispanic, White"
+746,31.0,Male,White
+747,23.0,Female,White
+748,29.0,Male,White
+749,27.0,Male,White
+750,31.0,Male,White
+751,26.0,Male,White
+752,66.0,Male,White
+753,48.0,Male,"Hispanic, White"
+754,54.0,Female,White
+755,35.0,Female,White
+756,28.0,Male,White
+757,27.0,Male,White
+758,28.0,Male,White
+759,56.0,Female,White
+760,47.0,Male,White
+761,56.0,Male,White
+762,55.0,Male,White
+763,47.0,Male,Black
+764,29.0,Male,Unknown
+765,36.0,Male,White
+766,30.0,Male,White
+767,50.0,Male,White
+768,27.0,Male,"Hispanic, White"
+769,37.0,Male,White
+770,59.0,Male,White
+771,25.0,Male,White
+772,36.0,Female,Black
+773,62.0,Female,White
+774,48.0,Male,"Hispanic, White"
+775,55.0,Male,"Hispanic, White"
+776,34.0,Male,White
+777,41.0,Male,"Hispanic, White"
+778,24.0,Male,White
+779,55.0,Female,White
+780,23.0,Male,White
+781,35.0,Male,White
+782,35.0,Male,White
+783,59.0,Male,"Hispanic, White"
+784,47.0,Male,"Hispanic, White"
+785,50.0,Female,White
+786,42.0,Male,White
+787,50.0,Female,White
+788,48.0,Male,"Hispanic, White"
+789,35.0,Male,White
+790,25.0,Male,White
+791,26.0,Male,"Hispanic, White"
+792,32.0,Female,White
+793,50.0,Female,"Hispanic, White"
+794,26.0,Male,White
+795,61.0,Male,Black
+796,19.0,Female,White
+797,40.0,Male,White
+798,44.0,Male,White
+799,37.0,Female,White
+800,34.0,Male,White
+801,37.0,Male,White
+802,55.0,Female,White
+803,46.0,Male,White
+804,34.0,Male,Black
+805,22.0,Male,White
+806,21.0,Male,White
+807,55.0,Female,White
+808,33.0,Male,"Hispanic, White"
+809,46.0,Female,White
+810,53.0,Male,White
+811,48.0,Male,White
+812,52.0,Female,White
+813,33.0,Male,
+814,26.0,Male,White
+815,56.0,Male,White
+816,34.0,Male,White
+817,28.0,Male,"Hispanic, White"
+818,58.0,Male,White
+819,30.0,Female,White
+820,29.0,Male,White
+821,48.0,Male,Black
+822,25.0,Male,White
+823,30.0,Female,Black
+824,25.0,Female,White
+825,28.0,Female,White
+826,29.0,Male,White
+827,36.0,Male,Black
+828,27.0,Female,White
+829,36.0,Male,White
+830,57.0,Female,White
+831,43.0,Male,Black
+832,29.0,Male,White
+833,34.0,Male,White
+834,33.0,Male,White
+835,31.0,Male,White
+836,44.0,Male,White
+837,33.0,Male,White
+838,33.0,Male,White
+839,19.0,Female,White
+840,40.0,Male,"Hispanic, White"
+841,29.0,Male,White
+842,30.0,Male,White
+843,28.0,Male,White
+844,40.0,Male,"Hispanic, Black"
+845,20.0,Male,White
+846,57.0,Male,White
+847,39.0,Male,White
+848,65.0,Male,"Hispanic, White"
+849,67.0,Male,White
+850,44.0,Male,White
+851,55.0,Female,"Hispanic, White"
+852,24.0,Male,White
+853,41.0,Male,White
+854,36.0,Male,White
+855,23.0,Male,White
+856,37.0,Male,White
+857,43.0,Male,White
+858,37.0,Female,"Hispanic, White"
+859,20.0,Male,Black
+860,62.0,Female,White
+861,55.0,Male,White
+862,49.0,Female,White
+863,22.0,Male,White
+864,47.0,Male,Black
+865,57.0,Male,Black
+866,26.0,Male,White
+867,37.0,Female,"Asian, Other"
+868,41.0,Male,White
+869,28.0,Male,White
+870,52.0,Male,"Hispanic, White"
+871,51.0,Male,"Hispanic, White"
+872,21.0,Male,White
+873,30.0,Male,White
+874,32.0,Male,"Hispanic, White"
+875,29.0,Male,White
+876,52.0,Male,White
+877,33.0,Female,White
+878,27.0,Male,White
+879,32.0,Male,White
+880,33.0,Male,White
+881,26.0,Male,White
+882,26.0,Female,White
+883,18.0,Male,White
+884,53.0,Male,"Hispanic, White"
+885,39.0,Male,White
+886,24.0,Male,White
+887,25.0,Male,White
+888,35.0,Male,White
+889,55.0,Male,White
+890,41.0,Male,"Hispanic, White"
+891,41.0,Male,White
+892,63.0,Male,Black
+893,40.0,Male,White
+894,28.0,Male,White
+895,45.0,Male,White
+896,55.0,Female,White
+897,38.0,Male,White
+898,59.0,Male,White
+899,54.0,Female,Black
+900,38.0,Female,White
+901,36.0,Male,White
+902,20.0,Female,Black
+903,64.0,Male,White
+904,48.0,Male,"Hispanic, Black"
+905,55.0,Male,White
+906,45.0,Male,White
+907,43.0,Male,White
+908,30.0,Male,White
+909,55.0,Female,White
+910,31.0,Female,White
+911,39.0,Male,White
+912,44.0,Female,White
+913,50.0,Male,White
+914,27.0,Male,White
+915,52.0,Male,White
+916,44.0,Female,Black
+917,31.0,Male,White
+918,57.0,Female,White
+919,44.0,Male,White
+920,45.0,Male,"Hispanic, White"
+921,47.0,Male,Black
+922,39.0,Male,White
+923,49.0,Female,
+924,33.0,Male,White
+925,31.0,Female,White
+926,29.0,Male,White
+927,27.0,Female,White
+928,48.0,Male,White
+929,32.0,Male,White
+930,15.0,Male,White
+931,51.0,Male,White
+932,58.0,Male,Black
+933,27.0,Male,White
+934,64.0,Male,White
+935,52.0,Male,White
+936,41.0,Male,"Hispanic, White"
+937,48.0,Female,White
+938,36.0,Male,"Hispanic, White"
+939,43.0,Male,"Hispanic, White"
+940,33.0,Male,White
+941,36.0,Male,White
+942,35.0,Male,White
+943,51.0,Male,White
+944,50.0,Male,White
+945,54.0,Male,"Hispanic, White"
+946,47.0,Female,Black
+947,62.0,Male,White
+948,70.0,Male,"Hispanic, White"
+949,48.0,Male,Black
+950,44.0,Male,"Hispanic, White"
+951,29.0,Female,White
+952,51.0,Female,White
+953,57.0,Male,"Hispanic, Black"
+954,58.0,Male,White
+955,29.0,Female,White
+956,50.0,Male,White
+957,62.0,Male,White
+958,58.0,Male,White
+959,55.0,Male,White
+960,27.0,Male,White
+961,24.0,Male,White
+962,46.0,Male,White
+963,22.0,Female,White
+964,36.0,Male,"Hispanic, White"
+965,54.0,Male,White
+966,27.0,Male,White
+967,22.0,Male,White
+968,37.0,Male,Black
+969,24.0,Male,White
+970,36.0,Male,White
+971,24.0,Male,White
+972,51.0,Male,White
+973,52.0,Male,Black
+974,26.0,Male,White
+975,29.0,Male,White
+976,54.0,Female,White
+977,43.0,Male,White
+978,20.0,Male,"Hispanic, White"
+979,28.0,Male,White
+980,29.0,Male,"Hispanic, White"
+981,49.0,Female,White
+982,65.0,Female,White
+983,35.0,Male,"Hispanic, White"
+984,26.0,Male,White
+985,25.0,Female,White
+986,63.0,Female,White
+987,64.0,Male,White
+988,53.0,Male,"Hispanic, White"
+989,54.0,Male,White
+990,54.0,Female,White
+991,64.0,Male,White
+992,37.0,Male,White
+993,41.0,Male,White
+994,48.0,Female,Black
+995,35.0,Male,"Hispanic, White"
+996,28.0,Male,White
+997,37.0,Female,White
+998,21.0,Male,White
+999,36.0,Female,White
+1000,65.0,Male,Black
+1001,39.0,Male,White
+1002,24.0,Male,White
+1003,52.0,Male,White
+1004,22.0,Female,White
+1005,39.0,Male,Black
+1006,69.0,Male,White
+1007,25.0,Male,White
+1008,29.0,Male,White
+1009,56.0,Male,White
+1010,36.0,Male,Black
+1011,65.0,Male,White
+1012,55.0,Male,Black
+1013,50.0,Female,White
+1014,60.0,Male,White
+1015,36.0,Female,White
+1016,34.0,Male,White
+1017,56.0,Male,White
+1018,41.0,Male,White
+1019,56.0,Male,White
+1020,29.0,Male,White
+1021,40.0,Female,White
+1022,61.0,Male,White
+1023,40.0,Female,White
+1024,23.0,Male,White
+1025,46.0,Male,White
+1026,40.0,Female,White
+1027,24.0,Male,White
+1028,24.0,Male,White
+1029,36.0,Male,White
+1030,71.0,Male,"Hispanic, White"
+1031,58.0,Female,White
+1032,31.0,Female,White
+1033,59.0,Male,White
+1034,54.0,Female,White
+1035,44.0,Male,White
+1036,48.0,Male,White
+1037,38.0,Male,White
+1038,31.0,Male,White
+1039,32.0,Male,White
+1040,46.0,Male,"Hispanic, White"
+1041,42.0,Female,Black
+1042,36.0,Male,White
+1043,36.0,Female,White
+1044,60.0,Male,Black
+1045,56.0,Male,White
+1046,52.0,Male,White
+1047,35.0,Male,White
+1048,55.0,Male,White
+1049,26.0,Male,White
+1050,42.0,Male,White
+1051,34.0,Male,White
+1052,65.0,Male,White
+1053,39.0,Male,White
+1054,28.0,Male,White
+1055,41.0,Male,White
+1056,45.0,Female,White
+1057,54.0,Female,White
+1058,35.0,Male,White
+1059,31.0,Male,White
+1060,44.0,Male,White
+1061,60.0,Male,"Hispanic, White"
+1062,47.0,Female,White
+1063,26.0,Male,White
+1064,28.0,Male,White
+1065,51.0,Female,White
+1066,55.0,Male,White
+1067,29.0,Male,White
+1068,40.0,Male,White
+1069,35.0,Male,White
+1070,38.0,Male,White
+1071,30.0,Female,White
+1072,63.0,Male,White
+1073,45.0,Male,White
+1074,22.0,Male,White
+1075,46.0,Male,White
+1076,61.0,Male,Black
+1077,38.0,Male,White
+1078,49.0,Female,White
+1079,45.0,Female,White
+1080,41.0,Male,White
+1081,41.0,Female,White
+1082,24.0,Female,White
+1083,26.0,Male,White
+1084,53.0,Male,Black
+1085,24.0,Female,Unknown
+1086,37.0,Male,White
+1087,25.0,Male,White
+1088,53.0,Male,White
+1089,47.0,Male,White
+1090,50.0,Male,White
+1091,33.0,Female,White
+1092,37.0,Male,Black
+1093,22.0,Male,White
+1094,43.0,Male,White
+1095,55.0,Male,White
+1096,50.0,Male,White
+1097,47.0,Female,White
+1098,32.0,Female,"Hispanic, White"
+1099,43.0,Male,White
+1100,53.0,Male,Black
+1101,56.0,Female,White
+1102,47.0,Male,"Hispanic, White"
+1103,57.0,Female,White
+1104,17.0,Male,White
+1105,51.0,Female,White
+1106,41.0,Male,"Hispanic, White"
+1107,51.0,Male,White
+1108,37.0,Male,Black
+1109,44.0,Male,White
+1110,53.0,Male,"Hispanic, White"
+1111,55.0,Male,"Hispanic, White"
+1112,43.0,Male,White
+1113,56.0,Male,White
+1114,54.0,Male,White
+1115,44.0,Male,White
+1116,25.0,Male,White
+1117,49.0,Male,Black
+1118,18.0,Male,White
+1119,51.0,Female,White
+1120,37.0,Male,White
+1121,60.0,Male,Black
+1122,23.0,Male,Black
+1123,23.0,Female,White
+1124,49.0,Male,"Hispanic, White"
+1125,29.0,Female,White
+1126,23.0,Female,White
+1127,23.0,Male,White
+1128,44.0,Male,White
+1129,44.0,Female,White
+1130,48.0,Female,White
+1131,34.0,Male,White
+1132,60.0,Male,White
+1133,31.0,Male,White
+1134,52.0,Female,White
+1135,37.0,Male,White
+1136,33.0,Male,White
+1137,70.0,Female,White
+1138,39.0,Female,White
+1139,33.0,Male,White
+1140,24.0,Male,White
+1141,28.0,Male,White
+1142,30.0,Female,White
+1143,35.0,Female,"Hispanic, White"
+1144,30.0,Female,Other
+1145,45.0,Female,White
+1146,34.0,Female,White
+1147,53.0,Male,White
+1148,20.0,Male,White
+1149,66.0,Male,White
+1150,55.0,Male,White
+1151,55.0,Female,White
+1152,36.0,Male,White
+1153,50.0,Male,"Hispanic, White"
+1154,47.0,Female,White
+1155,23.0,Male,White
+1156,38.0,Male,White
+1157,39.0,Male,White
+1158,42.0,Male,White
+1159,40.0,Female,White
+1160,26.0,Female,White
+1161,31.0,Male,White
+1162,64.0,Male,White
+1163,62.0,Male,White
+1164,41.0,Female,White
+1165,47.0,Female,White
+1166,62.0,Male,Black
+1167,30.0,Male,White
+1168,38.0,Female,White
+1169,33.0,Female,White
+1170,51.0,Male,White
+1171,33.0,Female,White
+1172,27.0,Male,White
+1173,29.0,Female,White
+1174,40.0,Male,White
+1175,54.0,Male,White
+1176,26.0,Male,White
+1177,38.0,Male,White
+1178,34.0,Male,White
+1179,32.0,Male,Unknown
+1180,60.0,Male,White
+1181,36.0,Male,"Hispanic, White"
+1182,25.0,Female,White
+1183,44.0,Male,White
+1184,44.0,Male,White
+1185,28.0,Male,White
+1186,25.0,Male,White
+1187,56.0,Male,White
+1188,42.0,Female,White
+1189,49.0,Male,White
+1190,46.0,Male,White
+1191,22.0,Female,White
+1192,56.0,Male,"Hispanic, White"
+1193,55.0,Male,White
+1194,24.0,Male,White
+1195,18.0,Male,White
+1196,58.0,Male,White
+1197,26.0,Female,White
+1198,27.0,Female,"Hispanic, White"
+1199,24.0,Male,White
+1200,29.0,Female,White
+1201,28.0,Female,White
+1202,38.0,Male,White
+1203,52.0,Male,White
+1204,62.0,Male,White
+1205,51.0,Male,White
+1206,43.0,Male,White
+1207,52.0,Male,Unknown
+1208,50.0,Female,White
+1209,48.0,Male,"Hispanic, White"
+1210,43.0,Male,"Hispanic, White"
+1211,29.0,Male,White
+1212,25.0,Male,White
+1213,43.0,Male,White
+1214,38.0,Female,Black
+1215,26.0,Male,White
+1216,51.0,Female,White
+1217,24.0,Male,White
+1218,35.0,Male,White
+1219,50.0,Male,Black
+1220,55.0,Male,White
+1221,42.0,Female,"Hispanic, White"
+1222,41.0,Male,White
+1223,27.0,Male,White
+1224,43.0,Male,White
+1225,29.0,Male,White
+1226,33.0,Male,"Hispanic, White"
+1227,50.0,Male,Black
+1228,42.0,Female,White
+1229,41.0,Male,Black
+1230,32.0,Female,"Hispanic, White"
+1231,32.0,Female,White
+1232,23.0,Male,"Hispanic, White"
+1233,37.0,Male,White
+1234,47.0,Male,White
+1235,34.0,Male,"Hispanic, White"
+1236,53.0,Male,Black
+1237,35.0,Male,"Hispanic, White"
+1238,41.0,Male,White
+1239,55.0,Female,White
+1240,35.0,Male,White
+1241,37.0,Female,White
+1242,43.0,Female,White
+1243,40.0,Male,White
+1244,23.0,Male,White
+1245,55.0,Male,Black
+1246,37.0,Female,White
+1247,35.0,Male,"Hispanic, White"
+1248,38.0,Male,White
+1249,55.0,Male,Black
+1250,45.0,Male,White
+1251,50.0,Male,White
+1252,37.0,Female,White
+1253,46.0,Male,Black
+1254,37.0,Female,White
+1255,49.0,Male,"Hispanic, White"
+1256,28.0,Female,White
+1257,57.0,Female,White
+1258,48.0,Male,White
+1259,22.0,Female,White
+1260,37.0,Male,White
+1261,50.0,Female,White
+1262,52.0,Female,White
+1263,35.0,Male,"Hispanic, White"
+1264,43.0,Male,White
+1265,61.0,Male,White
+1266,51.0,Male,White
+1267,50.0,Male,White
+1268,21.0,Male,White
+1269,52.0,Female,"Hispanic, White"
+1270,28.0,Male,White
+1271,38.0,Female,White
+1272,51.0,Male,White
+1273,24.0,Male,White
+1274,48.0,Male,Black
+1275,54.0,Male,Black
+1276,56.0,Male,White
+1277,40.0,Male,"Hispanic, White"
+1278,45.0,Male,White
+1279,40.0,Male,White
+1280,41.0,Male,"Hispanic, White"
+1281,65.0,Female,White
+1282,48.0,Male,White
+1283,59.0,Male,White
+1284,50.0,Male,Black
+1285,44.0,Female,White
+1286,17.0,Female,White
+1287,50.0,Male,White
+1288,22.0,Male,"Asian, Other"
+1289,65.0,Male,White
+1290,51.0,Male,White
+1291,67.0,Female,White
+1292,36.0,Male,White
+1293,53.0,Male,White
+1294,45.0,Male,"Hispanic, White"
+1295,50.0,Male,White
+1296,41.0,Female,White
+1297,59.0,Male,"Hispanic, White"
+1298,28.0,Male,White
+1299,44.0,Female,White
+1300,37.0,Male,White
+1301,37.0,Male,"Hispanic, White"
+1302,58.0,Male,Asian Indian
+1303,23.0,Female,"Hispanic, White"
+1304,46.0,Male,Black
+1305,45.0,Male,White
+1306,49.0,Male,White
+1307,28.0,Male,White
+1308,57.0,Male,"Hispanic, White"
+1309,57.0,Male,White
+1310,33.0,Male,White
+1311,47.0,Male,White
+1312,37.0,Male,White
+1313,61.0,Male,Black
+1314,65.0,Male,White
+1315,57.0,Female,White
+1316,25.0,Male,Other
+1317,47.0,Female,White
+1318,62.0,Male,White
+1319,26.0,Female,White
+1320,44.0,Male,White
+1321,40.0,Female,White
+1322,58.0,Male,White
+1323,23.0,Male,"Hispanic, White"
+1324,42.0,Male,White
+1325,24.0,Male,White
+1326,38.0,Male,White
+1327,38.0,Male,White
+1328,60.0,Male,White
+1329,61.0,Female,Black
+1330,45.0,Female,White
+1331,36.0,Male,White
+1332,42.0,Male,White
+1333,45.0,Male,White
+1334,38.0,Male,White
+1335,46.0,Female,White
+1336,47.0,Male,White
+1337,32.0,Male,White
+1338,42.0,Female,White
+1339,43.0,Male,"Hispanic, White"
+1340,64.0,Male,White
+1341,60.0,Male,White
+1342,49.0,Male,"Hispanic, White"
+1343,33.0,Male,White
+1344,59.0,Female,White
+1345,61.0,Male,White
+1346,29.0,Male,"Hispanic, White"
+1347,24.0,Male,White
+1348,41.0,Female,White
+1349,46.0,Male,"Hispanic, White"
+1350,27.0,Male,White
+1351,51.0,Female,White
+1352,61.0,Male,White
+1353,22.0,Male,White
+1354,57.0,Female,White
+1355,47.0,Male,White
+1356,31.0,Male,White
+1357,57.0,Male,Other
+1358,24.0,Male,White
+1359,60.0,Female,White
+1360,34.0,Male,White
+1361,27.0,Male,White
+1362,46.0,Male,White
+1363,61.0,Female,White
+1364,25.0,Male,"Hispanic, White"
+1365,44.0,Male,"Hispanic, White"
+1366,30.0,Male,White
+1367,42.0,Male,White
+1368,44.0,Male,White
+1369,56.0,Female,
+1370,31.0,Male,White
+1371,48.0,Male,Black
+1372,50.0,Male,White
+1373,56.0,Male,White
+1374,54.0,Male,White
+1375,34.0,Female,White
+1376,38.0,Male,"Hispanic, White"
+1377,32.0,Male,White
+1378,33.0,Male,White
+1379,46.0,Male,White
+1380,53.0,Male,White
+1381,49.0,Female,White
+1382,48.0,Female,White
+1383,49.0,Male,White
+1384,49.0,Male,White
+1385,28.0,Male,White
+1386,31.0,Male,White
+1387,32.0,Male,White
+1388,49.0,Male,White
+1389,36.0,Male,White
+1390,33.0,Male,White
+1391,40.0,Male,"Hispanic, White"
+1392,53.0,Male,White
+1393,30.0,Female,White
+1394,62.0,Male,White
+1395,51.0,Male,White
+1396,40.0,Female,White
+1397,42.0,Male,White
+1398,28.0,Male,Black
+1399,26.0,Male,"Asian, Other"
+1400,46.0,Male,White
+1401,30.0,Male,White
+1402,44.0,Male,White
+1403,47.0,Female,"Hispanic, White"
+1404,57.0,Male,White
+1405,26.0,Male,White
+1406,29.0,Male,White
+1407,29.0,Male,White
+1408,28.0,Female,White
+1409,27.0,Male,White
+1410,30.0,Male,Black
+1411,44.0,Female,White
+1412,29.0,Female,White
+1413,36.0,Male,White
+1414,57.0,Female,White
+1415,54.0,Male,White
+1416,60.0,Female,White
+1417,66.0,Male,White
+1418,32.0,Male,White
+1419,49.0,Female,White
+1420,36.0,Male,White
+1421,35.0,Female,White
+1422,55.0,Male,White
+1423,58.0,Male,White
+1424,31.0,Male,White
+1425,35.0,Female,White
+1426,24.0,Male,White
+1427,50.0,Male,White
+1428,42.0,Male,Black
+1429,50.0,Male,"Hispanic, White"
+1430,56.0,,White
+1431,56.0,Female,White
+1432,49.0,Male,"Hispanic, White"
+1433,23.0,Male,White
+1434,46.0,Male,White
+1435,41.0,Female,White
+1436,21.0,Male,Asian Indian
+1437,46.0,Male,White
+1438,44.0,Female,White
+1439,48.0,Female,White
+1440,34.0,Male,White
+1441,57.0,Female,White
+1442,51.0,Male,White
+1443,31.0,Male,White
+1444,58.0,Male,White
+1445,26.0,Male,White
+1446,27.0,Male,White
+1447,48.0,Female,White
+1448,26.0,Female,White
+1449,43.0,Male,"Hispanic, White"
+1450,53.0,Female,White
+1451,37.0,Male,White
+1452,44.0,Female,"Hispanic, White"
+1453,34.0,Male,"Hispanic, White"
+1454,28.0,Male,White
+1455,34.0,Female,White
+1456,40.0,Male,White
+1457,28.0,Male,White
+1458,36.0,Male,White
+1459,53.0,Male,White
+1460,44.0,Female,"Hispanic, White"
+1461,41.0,Male,White
+1462,21.0,Male,White
+1463,47.0,Male,White
+1464,40.0,Female,White
+1465,35.0,Female,White
+1466,41.0,Male,White
+1467,37.0,Male,White
+1468,22.0,Female,"Hispanic, White"
+1469,38.0,Male,"Hispanic, White"
+1470,31.0,Male,White
+1471,37.0,Male,White
+1472,41.0,Male,White
+1473,42.0,Male,White
+1474,45.0,Male,White
+1475,35.0,Male,White
+1476,49.0,Male,White
+1477,47.0,Female,White
+1478,41.0,Female,White
+1479,46.0,Female,White
+1480,53.0,Male,White
+1481,45.0,Male,White
+1482,60.0,Male,Black
+1483,55.0,Female,White
+1484,34.0,Male,White
+1485,43.0,Male,White
+1486,47.0,Male,White
+1487,29.0,Male,White
+1488,26.0,Male,White
+1489,48.0,Female,White
+1490,39.0,Male,White
+1491,58.0,Female,White
+1492,56.0,Female,"Hispanic, White"
+1493,29.0,Male,White
+1494,37.0,Female,White
+1495,37.0,Male,White
+1496,58.0,Male,Black
+1497,39.0,Male,Black
+1498,52.0,Male,"Hispanic, White"
+1499,35.0,Male,White
+1500,54.0,Male,White
+1501,54.0,Female,White
+1502,48.0,Male,White
+1503,39.0,Female,White
+1504,44.0,Male,"Hispanic, White"
+1505,57.0,Male,White
+1506,23.0,Male,White
+1507,33.0,Male,White
+1508,27.0,Male,White
+1509,58.0,Female,White
+1510,52.0,Male,White
+1511,28.0,Male,White
+1512,38.0,Male,White
+1513,58.0,Male,White
+1514,27.0,Female,White
+1515,34.0,Male,White
+1516,56.0,Female,Black
+1517,29.0,Male,White
+1518,36.0,Male,White
+1519,36.0,Male,White
+1520,28.0,Female,White
+1521,47.0,Female,White
+1522,37.0,Female,White
+1523,55.0,Male,White
+1524,23.0,Male,Black
+1525,44.0,Male,"Hispanic, White"
+1526,26.0,Male,White
+1527,62.0,Female,White
+1528,50.0,Male,White
+1529,57.0,Female,White
+1530,59.0,Female,White
+1531,34.0,Male,White
+1532,34.0,Male,White
+1533,58.0,Male,White
+1534,65.0,Male,Black
+1535,50.0,Male,White
+1536,36.0,Female,White
+1537,45.0,Female,White
+1538,34.0,Female,White
+1539,48.0,Female,White
+1540,49.0,Male,Black
+1541,36.0,Male,White
+1542,58.0,Male,White
+1543,50.0,Male,Black
+1544,47.0,Male,"Hispanic, White"
+1545,34.0,Male,White
+1546,51.0,Female,White
+1547,42.0,Male,White
+1548,53.0,Female,White
+1549,50.0,Male,"Hispanic, White"
+1550,32.0,Male,White
+1551,34.0,Male,White
+1552,30.0,Male,White
+1553,58.0,Male,White
+1554,41.0,Male,White
+1555,52.0,Male,White
+1556,30.0,Male,"Asian, Other"
+1557,49.0,Male,"Hispanic, White"
+1558,30.0,Male,White
+1559,54.0,Male,White
+1560,29.0,Male,White
+1561,38.0,Male,White
+1562,27.0,Male,White
+1563,72.0,Female,White
+1564,45.0,Male,White
+1565,50.0,Male,White
+1566,48.0,Male,White
+1567,52.0,Male,White
+1568,35.0,Male,Unknown
+1569,22.0,Male,White
+1570,49.0,Male,White
+1571,47.0,Male,Black
+1572,21.0,Male,White
+1573,52.0,Female,White
+1574,35.0,Female,Black
+1575,58.0,Male,Black
+1576,30.0,Male,Black
+1577,41.0,Male,"Hispanic, White"
+1578,29.0,Male,White
+1579,46.0,Male,White
+1580,48.0,Female,Black
+1581,42.0,Male,White
+1582,33.0,Male,White
+1583,55.0,Female,White
+1584,49.0,Male,White
+1585,25.0,Male,White
+1586,54.0,Male,White
+1587,44.0,Male,"Hispanic, White"
+1588,60.0,Male,White
+1589,22.0,Female,White
+1590,55.0,Male,"Hispanic, White"
+1591,48.0,Male,Black
+1592,32.0,Male,White
+1593,54.0,Female,White
+1594,39.0,Male,"Hispanic, White"
+1595,30.0,Male,White
+1596,29.0,Male,"Hispanic, White"
+1597,30.0,Male,White
+1598,31.0,Female,White
+1599,44.0,Male,White
+1600,61.0,Male,White
+1601,45.0,Female,White
+1602,25.0,Female,White
+1603,29.0,Male,White
+1604,41.0,Male,Unknown
+1605,53.0,Male,White
+1606,41.0,Male,White
+1607,49.0,Female,White
+1608,24.0,Male,White
+1609,47.0,Male,White
+1610,46.0,Male,White
+1611,52.0,Female,Black
+1612,49.0,Male,White
+1613,40.0,Male,White
+1614,40.0,Female,White
+1615,28.0,Male,White
+1616,64.0,Male,"Hispanic, White"
+1617,34.0,Male,White
+1618,55.0,Female,White
+1619,49.0,Female,White
+1620,52.0,Male,White
+1621,32.0,Female,White
+1622,49.0,Female,"Hispanic, White"
+1623,51.0,Male,White
+1624,37.0,Male,"Hispanic, White"
+1625,35.0,Male,White
+1626,25.0,Male,White
+1627,44.0,Female,White
+1628,29.0,Female,White
+1629,30.0,Male,White
+1630,58.0,Male,White
+1631,30.0,Male,White
+1632,43.0,Male,"Hispanic, White"
+1633,32.0,Male,White
+1634,34.0,Female,White
+1635,47.0,Male,"Hispanic, White"
+1636,44.0,Male,"Hispanic, White"
+1637,49.0,Male,White
+1638,41.0,Male,"Hispanic, White"
+1639,45.0,Male,White
+1640,29.0,Female,White
+1641,57.0,Male,"Hispanic, White"
+1642,68.0,Male,White
+1643,29.0,Male,"Hispanic, White"
+1644,38.0,Male,White
+1645,28.0,Male,White
+1646,45.0,Male,White
+1647,39.0,Male,"Hispanic, White"
+1648,41.0,Female,"Hispanic, White"
+1649,31.0,Male,White
+1650,26.0,Male,Black
+1651,57.0,Male,White
+1652,39.0,Male,White
+1653,24.0,Male,White
+1654,56.0,Female,White
+1655,42.0,Male,White
+1656,62.0,Male,White
+1657,17.0,Female,White
+1658,27.0,Male,White
+1659,59.0,Male,White
+1660,59.0,Male,White
+1661,54.0,Female,White
+1662,53.0,Male,White
+1663,43.0,Male,"Hispanic, White"
+1664,22.0,Male,White
+1665,58.0,Female,White
+1666,48.0,Female,White
+1667,53.0,Male,White
+1668,49.0,Male,Black
+1669,33.0,Male,White
+1670,51.0,Female,"Hispanic, White"
+1671,29.0,Male,White
+1672,55.0,Female,White
+1673,30.0,Male,White
+1674,23.0,Male,White
+1675,33.0,Male,White
+1676,25.0,Female,White
+1677,19.0,Female,White
+1678,43.0,Male,White
+1679,38.0,Male,White
+1680,23.0,Female,"Hispanic, White"
+1681,32.0,Female,White
+1682,22.0,Male,White
+1683,58.0,Female,White
+1684,34.0,Male,White
+1685,37.0,Female,White
+1686,45.0,Female,White
+1687,41.0,Male,White
+1688,37.0,Male,"Hispanic, White"
+1689,74.0,Male,White
+1690,60.0,Male,Black
+1691,51.0,Male,Black
+1692,27.0,Female,White
+1693,52.0,Male,White
+1694,37.0,Male,White
+1695,25.0,Male,White
+1696,29.0,Female,White
+1697,24.0,Male,White
+1698,71.0,Male,White
+1699,32.0,Female,White
+1700,54.0,Female,White
+1701,54.0,Female,Black
+1702,32.0,Male,"Hispanic, White"
+1703,53.0,Male,White
+1704,28.0,Male,White
+1705,41.0,Male,White
+1706,40.0,Male,White
+1707,50.0,Male,White
+1708,48.0,Male,White
+1709,61.0,Male,White
+1710,52.0,Female,White
+1711,39.0,Male,White
+1712,48.0,Male,White
+1713,56.0,Male,White
+1714,28.0,Male,White
+1715,58.0,Male,Black
+1716,41.0,Male,White
+1717,36.0,Male,White
+1718,20.0,Male,White
+1719,44.0,Male,White
+1720,27.0,Male,"Hispanic, White"
+1721,22.0,Male,White
+1722,46.0,Female,White
+1723,28.0,Male,White
+1724,29.0,Male,White
+1725,51.0,Male,"Hispanic, White"
+1726,20.0,Female,Black
+1727,30.0,Male,White
+1728,57.0,Male,White
+1729,54.0,Male,White
+1730,52.0,Female,White
+1731,57.0,Male,Black
+1732,26.0,Female,White
+1733,47.0,Male,White
+1734,41.0,Male,Other
+1735,52.0,Male,Black
+1736,35.0,Male,White
+1737,54.0,Male,White
+1738,36.0,Male,White
+1739,26.0,Female,White
+1740,19.0,Male,White
+1741,54.0,Female,White
+1742,64.0,Male,White
+1743,30.0,Female,"Hispanic, White"
+1744,45.0,Female,White
+1745,47.0,Female,White
+1746,36.0,Male,"Hispanic, White"
+1747,38.0,Male,Black
+1748,53.0,Male,White
+1749,55.0,Male,White
+1750,44.0,Female,White
+1751,44.0,Male,White
+1752,61.0,Female,White
+1753,32.0,Female,White
+1754,26.0,Male,White
+1755,29.0,Male,Black
+1756,33.0,Male,White
+1757,24.0,Male,"Hispanic, White"
+1758,22.0,Female,White
+1759,25.0,Male,White
+1760,47.0,Male,Black
+1761,37.0,Male,White
+1762,28.0,Male,White
+1763,31.0,Male,White
+1764,31.0,Female,White
+1765,44.0,Male,White
+1766,51.0,Male,White
+1767,47.0,Male,White
+1768,53.0,Male,White
+1769,39.0,Male,"Hispanic, Black"
+1770,49.0,Male,Black
+1771,29.0,Male,White
+1772,35.0,Male,White
+1773,42.0,Male,White
+1774,37.0,Female,Black
+1775,54.0,Male,Black
+1776,46.0,Female,White
+1777,23.0,Male,White
+1778,39.0,Male,White
+1779,24.0,Male,White
+1780,52.0,Male,"Hispanic, White"
+1781,36.0,Male,White
+1782,43.0,Male,White
+1783,26.0,Male,White
+1784,49.0,Female,White
+1785,51.0,Male,White
+1786,58.0,Male,White
+1787,33.0,Male,White
+1788,61.0,Female,White
+1789,53.0,Male,White
+1790,34.0,Male,White
+1791,45.0,Male,Black
+1792,25.0,Male,White
+1793,52.0,Male,White
+1794,29.0,Female,White
+1795,25.0,Male,Black
+1796,40.0,Male,White
+1797,41.0,Female,White
+1798,55.0,Male,White
+1799,43.0,Male,"Hispanic, White"
+1800,34.0,Male,White
+1801,66.0,Female,White
+1802,34.0,Female,Black
+1803,60.0,Male,White
+1804,34.0,Male,White
+1805,53.0,Male,White
+1806,44.0,Male,White
+1807,51.0,Female,White
+1808,57.0,Female,White
+1809,58.0,Female,White
+1810,24.0,Male,White
+1811,41.0,Male,White
+1812,57.0,Male,"Hispanic, White"
+1813,41.0,Male,"Hispanic, White"
+1814,40.0,Male,White
+1815,55.0,Male,"Hispanic, White"
+1816,32.0,Male,White
+1817,50.0,Female,"Hispanic, White"
+1818,60.0,Male,Unknown
+1819,31.0,Male,White
+1820,48.0,Female,Black
+1821,25.0,Female,"Hispanic, White"
+1822,62.0,Male,White
+1823,40.0,Male,White
+1824,56.0,Male,Black
+1825,26.0,Female,White
+1826,30.0,Male,White
+1827,47.0,Male,White
+1828,52.0,Male,"Hispanic, White"
+1829,33.0,Male,White
+1830,37.0,Male,"Hispanic, White"
+1831,51.0,Male,White
+1832,32.0,Male,White
+1833,35.0,Male,"Hispanic, White"
+1834,23.0,Male,White
+1835,47.0,Male,White
+1836,35.0,Female,"Hispanic, White"
+1837,25.0,Female,White
+1838,50.0,Male,White
+1839,40.0,Male,White
+1840,51.0,Female,White
+1841,42.0,Male,White
+1842,62.0,Male,White
+1843,57.0,Male,White
+1844,62.0,Female,Black
+1845,43.0,Male,White
+1846,51.0,Male,White
+1847,49.0,Female,White
+1848,40.0,Female,White
+1849,29.0,Male,White
+1850,44.0,Male,Other
+1851,37.0,Male,White
+1852,27.0,Male,White
+1853,34.0,Male,White
+1854,60.0,Male,Black
+1855,37.0,Male,"Hispanic, White"
+1856,62.0,Male,White
+1857,20.0,Male,White
+1858,47.0,Male,"Hispanic, White"
+1859,19.0,Female,White
+1860,28.0,Male,White
+1861,43.0,Female,White
+1862,58.0,Female,White
+1863,64.0,Male,White
+1864,51.0,Male,White
+1865,64.0,Male,White
+1866,51.0,Female,White
+1867,25.0,Male,White
+1868,49.0,Male,White
+1869,60.0,Male,White
+1870,19.0,Male,White
+1871,25.0,Male,"Hispanic, White"
+1872,29.0,Male,White
+1873,54.0,Male,White
+1874,64.0,Male,Black
+1875,40.0,Female,White
+1876,35.0,Male,White
+1877,54.0,Male,White
+1878,30.0,Male,White
+1879,21.0,Female,"Hispanic, White"
+1880,61.0,Female,"Hispanic, White"
+1881,60.0,Male,"Hispanic, White"
+1882,41.0,Female,Black
+1883,53.0,Male,White
+1884,46.0,Male,White
+1885,56.0,Female,White
+1886,49.0,Male,Black
+1887,53.0,Male,White
+1888,50.0,Male,White
+1889,41.0,Male,White
+1890,62.0,Male,White
+1891,56.0,Male,White
+1892,33.0,Male,White
+1893,72.0,Male,White
+1894,53.0,Male,White
+1895,33.0,Male,"Hispanic, White"
+1896,49.0,Male,White
+1897,48.0,Male,White
+1898,41.0,Female,White
+1899,56.0,Male,Black
+1900,27.0,Male,White
+1901,30.0,Male,White
+1902,49.0,Female,White
+1903,72.0,Female,White
+1904,35.0,Male,White
+1905,35.0,Male,White
+1906,26.0,Male,White
+1907,58.0,Male,White
+1908,66.0,Male,White
+1909,38.0,Female,White
+1910,46.0,Male,White
+1911,28.0,Female,White
+1912,41.0,Female,White
+1913,25.0,Male,White
+1914,48.0,Male,White
+1915,30.0,Female,"Hispanic, White"
+1916,48.0,Male,White
+1917,54.0,Male,White
+1918,32.0,Male,White
+1919,34.0,Male,"Hispanic, White"
+1920,51.0,Female,White
+1921,45.0,Male,White
+1922,37.0,Male,White
+1923,24.0,Female,White
+1924,52.0,Female,White
+1925,35.0,Male,Unknown
+1926,38.0,Male,White
+1927,37.0,Male,White
+1928,53.0,Male,White
+1929,35.0,Female,Black
+1930,22.0,Male,White
+1931,23.0,Female,White
+1932,60.0,Male,White
+1933,30.0,Male,White
+1934,47.0,Female,White
+1935,56.0,Male,White
+1936,39.0,Male,Black
+1937,44.0,Female,"Hispanic, White"
+1938,28.0,Male,White
+1939,25.0,Female,White
+1940,64.0,Male,White
+1941,25.0,Female,White
+1942,44.0,Female,White
+1943,44.0,Female,White
+1944,51.0,Male,White
+1945,52.0,Male,White
+1946,31.0,Male,White
+1947,49.0,Male,White
+1948,38.0,Male,"Hispanic, Black"
+1949,42.0,Male,White
+1950,51.0,Male,White
+1951,32.0,Male,White
+1952,48.0,Male,White
+1953,31.0,Male,Black
+1954,22.0,Female,White
+1955,54.0,Male,White
+1956,28.0,Male,White
+1957,37.0,Male,White
+1958,52.0,Male,White
+1959,49.0,Male,Black
+1960,34.0,Male,White
+1961,51.0,Male,White
+1962,43.0,Male,White
+1963,49.0,Male,White
+1964,24.0,Male,White
+1965,61.0,Male,White
+1966,22.0,Male,White
+1967,26.0,Female,White
+1968,63.0,Male,White
+1969,24.0,Male,"Hispanic, White"
+1970,39.0,Female,White
+1971,25.0,Female,Chinese
+1972,29.0,Male,Black
+1973,41.0,Male,White
+1974,51.0,Male,White
+1975,59.0,Male,White
+1976,68.0,Male,White
+1977,49.0,Male,White
+1978,59.0,Male,White
+1979,37.0,Male,Black
+1980,84.0,Male,"Hispanic, White"
+1981,60.0,Male,White
+1982,33.0,Male,White
+1983,58.0,Female,White
+1984,62.0,Male,Black
+1985,52.0,Male,White
+1986,26.0,Male,"Hispanic, White"
+1987,44.0,Male,Black
+1988,35.0,Male,White
+1989,47.0,Male,"Hispanic, White"
+1990,55.0,Male,White
+1991,54.0,Male,"Hispanic, White"
+1992,53.0,Male,White
+1993,30.0,Female,White
+1994,50.0,Female,White
+1995,54.0,Female,White
+1996,33.0,Male,"Hispanic, Black"
+1997,51.0,Male,"Hispanic, White"
+1998,48.0,Female,White
+1999,26.0,Male,White
+2000,33.0,Male,White
+2001,50.0,Male,White
+2002,53.0,Male,Black
+2003,70.0,Male,"Hispanic, White"
+2004,36.0,Male,"Hispanic, White"
+2005,22.0,Male,White
+2006,33.0,Male,White
+2007,30.0,Male,White
+2008,37.0,Female,White
+2009,21.0,Female,White
+2010,47.0,Female,White
+2011,57.0,Male,White
+2012,53.0,Male,Black
+2013,40.0,Male,"Hispanic, White"
+2014,54.0,Male,"Hispanic, White"
+2015,39.0,Male,White
+2016,53.0,Female,White
+2017,31.0,Male,White
+2018,30.0,Male,White
+2019,58.0,Female,White
+2020,30.0,Male,White
+2021,65.0,Male,Black
+2022,25.0,Female,White
+2023,32.0,Male,White
+2024,52.0,Male,White
+2025,41.0,Male,"Hispanic, White"
+2026,23.0,Female,"Hispanic, Black"
+2027,52.0,Male,White
+2028,23.0,Male,White
+2029,58.0,Female,"Hispanic, White"
+2030,45.0,Male,White
+2031,54.0,Male,White
+2032,24.0,Female,White
+2033,46.0,Female,White
+2034,45.0,Male,"Hispanic, White"
+2035,40.0,Male,"Hispanic, White"
+2036,45.0,Female,White
+2037,54.0,Male,White
+2038,53.0,Male,Black
+2039,59.0,Male,White
+2040,62.0,Male,White
+2041,27.0,Male,White
+2042,30.0,Male,Black
+2043,38.0,Female,White
+2044,61.0,Male,White
+2045,43.0,Male,White
+2046,34.0,Male,White
+2047,34.0,Male,White
+2048,44.0,Male,White
+2049,38.0,Male,White
+2050,48.0,Male,White
+2051,33.0,Male,White
+2052,18.0,Female,White
+2053,38.0,Female,White
+2054,47.0,Male,White
+2055,43.0,Male,White
+2056,43.0,Female,White
+2057,39.0,Male,White
+2058,52.0,Male,White
+2059,48.0,Male,White
+2060,18.0,Male,White
+2061,57.0,Male,White
+2062,52.0,Male,White
+2063,51.0,Female,Black
+2064,64.0,Male,White
+2065,32.0,Male,White
+2066,34.0,Male,White
+2067,56.0,Female,White
+2068,61.0,Female,Black
+2069,41.0,Female,White
+2070,25.0,Female,White
+2071,24.0,Male,White
+2072,26.0,Male,White
+2073,36.0,Male,White
+2074,32.0,Female,White
+2075,28.0,Male,White
+2076,58.0,Male,White
+2077,26.0,Male,White
+2078,53.0,Male,"Hispanic, White"
+2079,33.0,Female,White
+2080,29.0,Male,White
+2081,49.0,Male,White
+2082,35.0,Male,White
+2083,51.0,Male,White
+2084,24.0,Female,White
+2085,20.0,Female,White
+2086,26.0,Male,White
+2087,29.0,Male,White
+2088,37.0,Male,White
+2089,63.0,Male,White
+2090,42.0,Male,White
+2091,38.0,Male,White
+2092,26.0,Male,White
+2093,23.0,Male,White
+2094,43.0,Female,White
+2095,60.0,Male,White
+2096,27.0,Male,White
+2097,49.0,Female,White
+2098,18.0,Male,White
+2099,21.0,Male,Black
+2100,48.0,Male,White
+2101,44.0,Male,White
+2102,39.0,Male,"Hispanic, White"
+2103,28.0,Male,White
+2104,39.0,Male,"Hispanic, White"
+2105,44.0,Female,White
+2106,49.0,Female,White
+2107,37.0,Male,White
+2108,35.0,Male,White
+2109,43.0,Male,White
+2110,33.0,Male,White
+2111,42.0,Male,White
+2112,60.0,Male,White
+2113,38.0,Male,White
+2114,58.0,Male,White
+2115,46.0,Male,White
+2116,32.0,Male,White
+2117,35.0,Male,Black
+2118,51.0,Male,White
+2119,33.0,Male,"Hispanic, White"
+2120,29.0,Male,White
+2121,38.0,Male,White
+2122,54.0,Male,White
+2123,73.0,Male,
+2124,52.0,Male,White
+2125,48.0,Male,White
+2126,55.0,Male,White
+2127,70.0,Male,White
+2128,57.0,Male,White
+2129,39.0,Male,White
+2130,60.0,Male,White
+2131,45.0,Male,White
+2132,47.0,Male,White
+2133,38.0,Male,White
+2134,41.0,Male,White
+2135,58.0,Male,White
+2136,45.0,Male,White
+2137,44.0,Male,White
+2138,24.0,Male,White
+2139,41.0,Male,White
+2140,25.0,Female,Black
+2141,54.0,Male,White
+2142,50.0,Female,White
+2143,28.0,Female,White
+2144,36.0,Male,White
+2145,52.0,Male,"Hispanic, White"
+2146,52.0,Male,White
+2147,70.0,Male,"Asian, Other"
+2148,33.0,Male,White
+2149,44.0,Female,White
+2150,33.0,Female,White
+2151,41.0,Male,White
+2152,44.0,Female,"Hispanic, Black"
+2153,43.0,Male,"Hispanic, White"
+2154,52.0,Male,White
+2155,28.0,Male,White
+2156,38.0,Male,White
+2157,32.0,Female,White
+2158,39.0,Male,White
+2159,54.0,Male,White
+2160,34.0,Male,White
+2161,52.0,Female,
+2162,20.0,Male,"Hispanic, White"
+2163,52.0,Male,"Hispanic, White"
+2164,57.0,Male,White
+2165,33.0,Male,White
+2166,37.0,Male,White
+2167,39.0,Female,White
+2168,17.0,Female,White
+2169,52.0,Male,White
+2170,43.0,Male,White
+2171,36.0,Female,Black
+2172,42.0,Male,White
+2173,35.0,Female,White
+2174,33.0,Male,White
+2175,53.0,Female,Black
+2176,29.0,Male,White
+2177,39.0,Male,White
+2178,35.0,Male,White
+2179,63.0,Male,White
+2180,54.0,Male,White
+2181,43.0,Female,White
+2182,35.0,Male,White
+2183,65.0,Male,White
+2184,49.0,Male,White
+2185,29.0,Male,White
+2186,35.0,Male,White
+2187,35.0,Male,White
+2188,50.0,Male,Black
+2189,46.0,Male,White
+2190,59.0,Male,White
+2191,44.0,Female,White
+2192,51.0,Male,White
+2193,31.0,Male,Asian Indian
+2194,50.0,Female,White
+2195,66.0,Unknown,White
+2196,28.0,Female,White
+2197,46.0,Male,White
+2198,29.0,Male,Other
+2199,24.0,Male,White
+2200,30.0,Male,White
+2201,36.0,Male,"Hispanic, White"
+2202,58.0,Male,White
+2203,28.0,Male,White
+2204,38.0,Male,White
+2205,29.0,Male,White
+2206,61.0,Male,White
+2207,42.0,Male,"Hispanic, White"
+2208,55.0,Male,"Hispanic, Black"
+2209,40.0,Male,White
+2210,51.0,Male,White
+2211,54.0,Male,White
+2212,52.0,Male,White
+2213,44.0,Female,White
+2214,66.0,Male,White
+2215,48.0,Female,"Hispanic, White"
+2216,22.0,Male,White
+2217,54.0,Male,Black
+2218,31.0,Male,White
+2219,47.0,Female,Black
+2220,30.0,Male,"Hispanic, White"
+2221,61.0,Male,"Hispanic, White"
+2222,30.0,Female,White
+2223,19.0,Female,White
+2224,25.0,Male,White
+2225,47.0,Male,White
+2226,21.0,Male,White
+2227,59.0,Male,White
+2228,47.0,Female,Black
+2229,22.0,Female,White
+2230,40.0,Male,White
+2231,28.0,Male,White
+2232,58.0,Female,White
+2233,35.0,Male,White
+2234,27.0,Male,White
+2235,35.0,Male,White
+2236,18.0,Male,White
+2237,46.0,Male,Black
+2238,23.0,Male,"Hispanic, White"
+2239,23.0,Male,White
+2240,32.0,Female,White
+2241,33.0,Male,White
+2242,38.0,Male,White
+2243,48.0,Male,"Hispanic, White"
+2244,44.0,Female,White
+2245,58.0,Male,White
+2246,31.0,Female,White
+2247,55.0,Male,White
+2248,42.0,Male,White
+2249,55.0,Male,Black
+2250,66.0,Male,"Hispanic, Black"
+2251,50.0,Male,Black
+2252,30.0,Female,White
+2253,34.0,Male,White
+2254,51.0,Female,White
+2255,50.0,Female,White
+2256,50.0,Male,White
+2257,37.0,Male,White
+2258,30.0,Male,White
+2259,31.0,Female,"Hispanic, White"
+2260,40.0,Male,Black
+2261,51.0,Male,White
+2262,25.0,Female,White
+2263,37.0,Male,White
+2264,33.0,Male,White
+2265,41.0,Male,White
+2266,36.0,Male,White
+2267,30.0,Male,White
+2268,25.0,Male,Black
+2269,46.0,Male,White
+2270,49.0,Male,White
+2271,43.0,Female,White
+2272,56.0,Male,White
+2273,54.0,Female,White
+2274,60.0,Male,Black
+2275,50.0,Male,"Hispanic, White"
+2276,27.0,Male,White
+2277,54.0,Male,White
+2278,45.0,Male,"Hispanic, White"
+2279,20.0,Male,White
+2280,28.0,Male,White
+2281,33.0,Female,White
+2282,48.0,Male,Unknown
+2283,38.0,Female,White
+2284,37.0,Male,White
+2285,26.0,Male,"Hispanic, White"
+2286,29.0,Male,White
+2287,22.0,Male,White
+2288,60.0,Male,White
+2289,56.0,Male,White
+2290,44.0,Female,White
+2291,26.0,Male,White
+2292,37.0,Male,White
+2293,24.0,Male,White
+2294,63.0,Female,White
+2295,23.0,Male,White
+2296,44.0,Female,"Hispanic, White"
+2297,31.0,Male,White
+2298,21.0,Female,White
+2299,63.0,Female,White
+2300,40.0,Male,White
+2301,53.0,Male,White
+2302,57.0,Male,White
+2303,30.0,Male,White
+2304,34.0,Male,White
+2305,57.0,Male,White
+2306,75.0,Female,White
+2307,54.0,Male,"Hispanic, White"
+2308,61.0,Male,White
+2309,46.0,Male,Black
+2310,26.0,Male,White
+2311,36.0,Male,White
+2312,58.0,Male,White
+2313,14.0,Female,White
+2314,31.0,Male,White
+2315,39.0,Male,White
+2316,53.0,Male,White
+2317,30.0,Male,"Hispanic, White"
+2318,45.0,Male,White
+2319,35.0,Female,White
+2320,34.0,Male,White
+2321,43.0,Male,White
+2322,40.0,Male,White
+2323,21.0,Male,White
+2324,54.0,Male,White
+2325,44.0,Male,White
+2326,56.0,Male,White
+2327,32.0,Male,White
+2328,49.0,Male,White
+2329,48.0,Female,White
+2330,48.0,Female,White
+2331,59.0,Male,White
+2332,57.0,Male,White
+2333,20.0,Female,White
+2334,48.0,Male,"Hispanic, White"
+2335,39.0,Male,White
+2336,24.0,Male,White
+2337,42.0,Female,White
+2338,27.0,Male,White
+2339,26.0,Male,White
+2340,21.0,Male,White
+2341,34.0,Female,White
+2342,35.0,Male,White
+2343,58.0,Male,White
+2344,59.0,Male,White
+2345,48.0,Male,White
+2346,52.0,Female,White
+2347,63.0,Male,White
+2348,52.0,Female,White
+2349,33.0,Male,White
+2350,59.0,Male,White
+2351,38.0,Female,White
+2352,58.0,Male,White
+2353,27.0,Male,White
+2354,64.0,Female,Black
+2355,44.0,Male,White
+2356,26.0,Female,White
+2357,48.0,Male,White
+2358,43.0,Male,White
+2359,44.0,Male,White
+2360,56.0,Female,"Hispanic, White"
+2361,27.0,Male,White
+2362,22.0,Female,White
+2363,28.0,Male,"Hispanic, Black"
+2364,26.0,Male,White
+2365,31.0,Male,White
+2366,33.0,Male,White
+2367,41.0,Male,White
+2368,51.0,Male,White
+2369,29.0,Male,White
+2370,37.0,Female,White
+2371,25.0,Male,White
+2372,48.0,Male,"Hispanic, White"
+2373,36.0,Female,Black
+2374,59.0,Male,White
+2375,62.0,Female,White
+2376,20.0,Male,White
+2377,26.0,Male,White
+2378,52.0,Male,Black
+2379,39.0,Male,Black
+2380,27.0,Male,White
+2381,45.0,Male,"Hispanic, White"
+2382,40.0,Male,White
+2383,39.0,Male,White
+2384,27.0,Male,White
+2385,43.0,Male,White
+2386,54.0,Female,White
+2387,57.0,Male,White
+2388,51.0,Male,White
+2389,48.0,Female,White
+2390,33.0,Male,White
+2391,27.0,Female,White
+2392,40.0,Female,White
+2393,43.0,Male,Black
+2394,65.0,Female,White
+2395,51.0,Male,White
+2396,39.0,Male,White
+2397,32.0,Female,White
+2398,52.0,Male,White
+2399,39.0,Male,White
+2400,49.0,Male,White
+2401,36.0,Male,"Hispanic, White"
+2402,47.0,Male,"Hispanic, White"
+2403,25.0,Male,White
+2404,35.0,Male,White
+2405,37.0,Female,White
+2406,26.0,Male,White
+2407,42.0,Male,White
+2408,24.0,Male,White
+2409,50.0,Female,White
+2410,35.0,Male,White
+2411,56.0,Male,White
+2412,28.0,Female,White
+2413,56.0,Male,"Hispanic, White"
+2414,31.0,Female,White
+2415,61.0,Female,White
+2416,63.0,Male,White
+2417,29.0,Male,White
+2418,38.0,Male,White
+2419,26.0,Male,White
+2420,31.0,Male,Black
+2421,45.0,Female,White
+2422,25.0,Male,White
+2423,53.0,Male,"Hispanic, White"
+2424,36.0,Male,White
+2425,19.0,Male,Unknown
+2426,38.0,Male,White
+2427,53.0,Male,White
+2428,43.0,Female,White
+2429,30.0,Male,"Hispanic, White"
+2430,52.0,Female,White
+2431,30.0,Male,White
+2432,55.0,Female,White
+2433,26.0,Male,White
+2434,62.0,Male,White
+2435,26.0,Male,White
+2436,50.0,Male,White
+2437,56.0,Male,White
+2438,42.0,Male,White
+2439,33.0,Male,White
+2440,37.0,Female,White
+2441,24.0,Male,White
+2442,36.0,Male,White
+2443,22.0,Female,"Hispanic, White"
+2444,23.0,Male,White
+2445,46.0,Male,White
+2446,67.0,Male,Black
+2447,39.0,Female,White
+2448,64.0,Female,Black
+2449,30.0,Male,White
+2450,31.0,Male,White
+2451,47.0,Female,White
+2452,61.0,Male,Black
+2453,27.0,Male,White
+2454,51.0,Male,White
+2455,36.0,Female,White
+2456,29.0,Male,White
+2457,45.0,Male,White
+2458,45.0,Male,"Hispanic, White"
+2459,46.0,Male,White
+2460,53.0,Female,White
+2461,72.0,Female,White
+2462,35.0,Male,White
+2463,56.0,Male,White
+2464,32.0,Male,White
+2465,56.0,Male,Black
+2466,52.0,Male,White
+2467,60.0,Male,Black
+2468,57.0,Female,"Hispanic, White"
+2469,58.0,Male,White
+2470,70.0,Female,Black
+2471,21.0,Male,White
+2472,28.0,Male,White
+2473,29.0,Male,"Hispanic, White"
+2474,36.0,Male,Unknown
+2475,34.0,Male,Black
+2476,40.0,Female,White
+2477,55.0,Male,Black
+2478,25.0,Male,"Hispanic, White"
+2479,37.0,Male,White
+2480,50.0,Male,"Hispanic, White"
+2481,40.0,Male,White
+2482,42.0,Male,Black
+2483,56.0,Male,White
+2484,54.0,Male,"Hispanic, White"
+2485,48.0,Female,White
+2486,25.0,Male,White
+2487,31.0,Male,White
+2488,35.0,Male,"Hispanic, White"
+2489,64.0,Male,White
+2490,41.0,Male,"Hispanic, White"
+2491,46.0,Male,Black
+2492,39.0,Female,White
+2493,59.0,Male,White
+2494,33.0,Male,White
+2495,28.0,Female,White
+2496,52.0,Female,White
+2497,24.0,Male,"Hispanic, White"
+2498,50.0,Male,Black
+2499,32.0,Female,White
+2500,22.0,Male,White
+2501,31.0,Male,White
+2502,60.0,Male,White
+2503,24.0,Male,White
+2504,29.0,Female,White
+2505,47.0,Male,"Hispanic, White"
+2506,40.0,Female,White
+2507,55.0,Female,White
+2508,28.0,Male,Black
+2509,51.0,Male,White
+2510,47.0,Male,White
+2511,24.0,Male,White
+2512,20.0,Male,White
+2513,58.0,Female,White
+2514,47.0,Male,White
+2515,52.0,Male,White
+2516,53.0,Female,White
+2517,51.0,Male,White
+2518,50.0,Male,White
+2519,59.0,Female,White
+2520,29.0,Male,White
+2521,41.0,Male,White
+2522,44.0,Female,"Hispanic, White"
+2523,59.0,Male,White
+2524,54.0,Female,White
+2525,48.0,Male,White
+2526,29.0,Male,White
+2527,56.0,Female,White
+2528,30.0,Male,White
+2529,46.0,Female,White
+2530,49.0,Female,White
+2531,34.0,Male,White
+2532,57.0,Male,White
+2533,55.0,Male,Black
+2534,87.0,Male,"Hispanic, White"
+2535,29.0,Male,White
+2536,47.0,Male,White
+2537,24.0,Male,White
+2538,37.0,Male,White
+2539,34.0,Male,White
+2540,38.0,Male,White
+2541,58.0,Male,White
+2542,42.0,Male,White
+2543,28.0,Female,White
+2544,42.0,Female,White
+2545,41.0,Female,White
+2546,36.0,Male,White
+2547,34.0,Female,White
+2548,23.0,Female,White
+2549,34.0,Female,White
+2550,43.0,Male,White
+2551,39.0,Male,"Hispanic, White"
+2552,19.0,Male,White
+2553,54.0,Female,White
+2554,50.0,Male,White
+2555,29.0,Male,White
+2556,39.0,Female,White
+2557,57.0,Male,White
+2558,37.0,Male,Black
+2559,47.0,Male,White
+2560,32.0,Male,White
+2561,47.0,Female,"Hispanic, White"
+2562,65.0,Female,White
+2563,30.0,Male,White
+2564,30.0,Male,White
+2565,29.0,Male,White
+2566,48.0,Male,"Hispanic, White"
+2567,48.0,Female,Black
+2568,33.0,Male,White
+2569,42.0,Female,White
+2570,27.0,Female,White
+2571,41.0,Male,Black
+2572,35.0,Male,White
+2573,44.0,Female,White
+2574,29.0,Male,White
+2575,39.0,Female,Black
+2576,37.0,Male,White
+2577,69.0,Male,Black
+2578,38.0,Male,"Hispanic, White"
+2579,56.0,Male,White
+2580,57.0,Female,White
+2581,33.0,Male,White
+2582,43.0,Male,White
+2583,59.0,Male,White
+2584,31.0,Male,White
+2585,42.0,Female,White
+2586,48.0,Male,White
+2587,33.0,Female,White
+2588,51.0,Male,White
+2589,20.0,Male,White
+2590,39.0,Male,White
+2591,35.0,Male,White
+2592,73.0,Male,White
+2593,33.0,Male,White
+2594,47.0,Male,White
+2595,38.0,Male,White
+2596,44.0,Male,White
+2597,48.0,Male,White
+2598,58.0,Male,"Hispanic, White"
+2599,48.0,Female,"Hispanic, White"
+2600,70.0,Male,White
+2601,44.0,Male,White
+2602,31.0,Male,"Hispanic, White"
+2603,43.0,Male,White
+2604,57.0,Male,Other
+2605,34.0,Male,White
+2606,20.0,Male,"Hispanic, White"
+2607,34.0,Male,"Hispanic, White"
+2608,41.0,Female,White
+2609,27.0,Female,White
+2610,30.0,Male,White
+2611,62.0,Male,White
+2612,36.0,Female,"Hispanic, White"
+2613,51.0,Male,White
+2614,32.0,Male,Black
+2615,49.0,Male,White
+2616,28.0,Male,Black
+2617,51.0,Female,White
+2618,35.0,Male,Black
+2619,24.0,Female,White
+2620,66.0,Female,Black
+2621,36.0,Male,White
+2622,57.0,Female,Black
+2623,23.0,Female,White
+2624,48.0,Male,White
+2625,46.0,Male,White
+2626,36.0,Male,White
+2627,28.0,Male,"Hispanic, White"
+2628,29.0,Male,White
+2629,31.0,Male,White
+2630,41.0,Male,White
+2631,45.0,Male,"Hispanic, White"
+2632,51.0,Male,White
+2633,18.0,Male,White
+2634,40.0,Male,"Hispanic, White"
+2635,39.0,Male,White
+2636,42.0,Male,"Hispanic, White"
+2637,48.0,Male,White
+2638,34.0,Male,White
+2639,44.0,Male,White
+2640,30.0,Female,White
+2641,46.0,Female,White
+2642,23.0,Female,White
+2643,44.0,Female,White
+2644,60.0,Female,White
+2645,36.0,Male,White
+2646,29.0,Male,White
+2647,24.0,Male,White
+2648,50.0,Male,"Hispanic, White"
+2649,30.0,Male,Black
+2650,41.0,Male,"Hispanic, White"
+2651,37.0,Male,White
+2652,31.0,Male,"Hispanic, White"
+2653,44.0,Female,White
+2654,63.0,Male,Black
+2655,48.0,Female,White
+2656,39.0,Male,"Hispanic, White"
+2657,40.0,Male,"Hispanic, White"
+2658,22.0,Female,White
+2659,28.0,Female,White
+2660,57.0,Female,White
+2661,38.0,Female,"Hispanic, White"
+2662,53.0,Male,White
+2663,27.0,Female,Black
+2664,26.0,Male,White
+2665,36.0,Male,White
+2666,28.0,Male,"Hispanic, White"
+2667,34.0,Female,White
+2668,61.0,Male,White
+2669,28.0,Male,White
+2670,26.0,Female,Black
+2671,53.0,Male,White
+2672,27.0,Male,White
+2673,44.0,Male,White
+2674,44.0,Male,White
+2675,61.0,Female,White
+2676,55.0,Female,White
+2677,44.0,Male,Black
+2678,28.0,Male,"Hispanic, White"
+2679,44.0,Male,White
+2680,37.0,Male,White
+2681,58.0,Male,Black
+2682,28.0,Male,White
+2683,38.0,Female,White
+2684,51.0,Male,White
+2685,39.0,Male,"Hispanic, White"
+2686,47.0,Male,White
+2687,36.0,Male,"Hispanic, White"
+2688,28.0,Male,Black
+2689,53.0,Male,White
+2690,55.0,Female,White
+2691,62.0,Male,White
+2692,34.0,Male,White
+2693,48.0,Male,White
+2694,30.0,Male,White
+2695,23.0,Male,White
+2696,57.0,Female,White
+2697,53.0,Male,White
+2698,50.0,Male,White
+2699,37.0,Male,White
+2700,29.0,Female,White
+2701,59.0,Male,White
+2702,29.0,Male,White
+2703,47.0,Male,"Hispanic, White"
+2704,39.0,Male,White
+2705,49.0,Male,White
+2706,48.0,Male,White
+2707,36.0,Male,White
+2708,63.0,Male,White
+2709,25.0,Male,White
+2710,49.0,Male,White
+2711,39.0,Male,White
+2712,29.0,Female,"Hispanic, White"
+2713,51.0,Male,White
+2714,36.0,Female,White
+2715,41.0,Male,White
+2716,52.0,Female,White
+2717,50.0,Female,White
+2718,45.0,Male,White
+2719,39.0,Male,White
+2720,30.0,Female,"Hispanic, White"
+2721,26.0,Male,White
+2722,38.0,Male,White
+2723,42.0,Male,White
+2724,44.0,Female,"Hispanic, White"
+2725,24.0,Male,White
+2726,56.0,Female,White
+2727,29.0,Male,White
+2728,41.0,Male,"Hispanic, White"
+2729,35.0,Female,White
+2730,27.0,Male,White
+2731,45.0,Male,Black
+2732,28.0,Male,"Hispanic, White"
+2733,44.0,Male,White
+2734,33.0,Male,White
+2735,36.0,Male,White
+2736,56.0,Male,White
+2737,46.0,Female,Black
+2738,72.0,Male,White
+2739,30.0,Male,White
+2740,37.0,Male,White
+2741,40.0,Male,White
+2742,26.0,Male,White
+2743,20.0,Female,White
+2744,51.0,Male,White
+2745,29.0,Male,White
+2746,32.0,Male,White
+2747,54.0,Male,White
+2748,27.0,Male,White
+2749,41.0,Female,"Asian, Other"
+2750,61.0,Male,White
+2751,58.0,Male,White
+2752,47.0,Male,White
+2753,43.0,Male,White
+2754,30.0,Male,White
+2755,52.0,Female,Black
+2756,47.0,Male,"Hispanic, White"
+2757,63.0,Male,White
+2758,43.0,Female,White
+2759,53.0,Male,Black
+2760,48.0,Male,White
+2761,44.0,Male,White
+2762,38.0,Male,White
+2763,29.0,Male,White
+2764,48.0,Male,Black
+2765,54.0,Male,White
+2766,45.0,Male,White
+2767,56.0,Male,White
+2768,36.0,Male,White
+2769,37.0,Male,White
+2770,33.0,Male,White
+2771,23.0,Male,White
+2772,34.0,Male,White
+2773,53.0,Male,White
+2774,39.0,Male,"Hispanic, White"
+2775,29.0,Male,White
+2776,27.0,Female,White
+2777,63.0,Female,White
+2778,40.0,Male,White
+2779,56.0,Male,White
+2780,57.0,Male,White
+2781,49.0,Female,White
+2782,33.0,Male,White
+2783,24.0,Male,White
+2784,24.0,Male,White
+2785,66.0,Male,White
+2786,46.0,Male,"Hispanic, White"
+2787,52.0,Female,White
+2788,54.0,Male,White
+2789,21.0,Male,Black
+2790,51.0,Male,White
+2791,34.0,Male,Black
+2792,52.0,Male,White
+2793,32.0,Male,White
+2794,41.0,Male,White
+2795,33.0,Male,"Hispanic, White"
+2796,42.0,Male,White
+2797,25.0,Male,White
+2798,22.0,Female,White
+2799,47.0,Male,White
+2800,53.0,Male,White
+2801,43.0,Male,"Hispanic, White"
+2802,47.0,Female,White
+2803,27.0,Male,"Hispanic, White"
+2804,57.0,Male,White
+2805,72.0,Male,White
+2806,44.0,Male,White
+2807,41.0,Male,"Hispanic, White"
+2808,67.0,Male,White
+2809,50.0,Male,"Hispanic, White"
+2810,41.0,Male,White
+2811,59.0,Male,White
+2812,20.0,Male,White
+2813,37.0,Female,White
+2814,44.0,Male,White
+2815,39.0,Male,White
+2816,30.0,Male,White
+2817,32.0,Male,White
+2818,64.0,Male,White
+2819,54.0,Female,White
+2820,55.0,Male,White
+2821,42.0,Male,White
+2822,30.0,Male,White
+2823,66.0,Female,White
+2824,24.0,Male,White
+2825,49.0,Male,White
+2826,29.0,Female,White
+2827,54.0,Male,White
+2828,44.0,Male,Black
+2829,34.0,Female,White
+2830,32.0,Female,White
+2831,50.0,Female,White
+2832,31.0,Male,White
+2833,48.0,Female,White
+2834,54.0,Male,White
+2835,21.0,Male,White
+2836,22.0,Male,White
+2837,39.0,Male,White
+2838,47.0,Female,Black
+2839,42.0,Female,White
+2840,29.0,Female,Black
+2841,53.0,Female,White
+2842,26.0,Male,White
+2843,40.0,Male,White
+2844,21.0,Male,White
+2845,60.0,Male,Black
+2846,59.0,Female,White
+2847,58.0,Male,White
+2848,53.0,Female,Black
+2849,46.0,Male,Black
+2850,33.0,Male,White
+2851,39.0,Male,"Hispanic, White"
+2852,34.0,Male,White
+2853,57.0,Male,White
+2854,52.0,Male,White
+2855,55.0,Male,White
+2856,25.0,Male,White
+2857,28.0,Male,White
+2858,28.0,Male,White
+2859,33.0,Male,White
+2860,49.0,Male,"Hispanic, White"
+2861,44.0,Male,White
+2862,46.0,Male,White
+2863,59.0,Male,White
+2864,19.0,Male,White
+2865,38.0,Male,White
+2866,54.0,Male,White
+2867,37.0,Male,White
+2868,59.0,Male,White
+2869,27.0,Female,White
+2870,48.0,Female,White
+2871,49.0,Female,White
+2872,52.0,Female,White
+2873,25.0,Female,White
+2874,49.0,Male,White
+2875,24.0,Female,White
+2876,69.0,Male,White
+2877,28.0,Male,White
+2878,19.0,Female,White
+2879,38.0,Male,White
+2880,43.0,Male,White
+2881,21.0,Male,White
+2882,33.0,Male,"Asian, Other"
+2883,24.0,Male,Unknown
+2884,44.0,Male,White
+2885,33.0,Male,White
+2886,23.0,Male,Unknown
+2887,29.0,Female,White
+2888,43.0,Male,White
+2889,29.0,Male,White
+2890,29.0,Male,White
+2891,44.0,Male,White
+2892,40.0,Male,White
+2893,33.0,Male,White
+2894,55.0,Male,White
+2895,51.0,Female,Black
+2896,44.0,Male,White
+2897,30.0,Male,White
+2898,50.0,Male,White
+2899,42.0,Male,White
+2900,23.0,Male,White
+2901,19.0,Male,"Asian, Other"
+2902,44.0,Male,Black
+2903,45.0,Male,White
+2904,63.0,Female,White
+2905,41.0,Male,White
+2906,20.0,Male,White
+2907,30.0,Male,White
+2908,45.0,Female,"Hispanic, White"
+2909,38.0,Male,White
+2910,51.0,Female,White
+2911,36.0,Male,White
+2912,52.0,Male,White
+2913,35.0,Male,Black
+2914,47.0,Male,White
+2915,45.0,Male,White
+2916,35.0,Female,White
+2917,64.0,Male,White
+2918,62.0,Male,White
+2919,31.0,Male,"Hispanic, White"
+2920,35.0,Male,Black
+2921,24.0,Female,White
+2922,41.0,Male,White
+2923,54.0,Male,Black
+2924,60.0,Female,White
+2925,40.0,Male,White
+2926,59.0,Male,White
+2927,27.0,Male,White
+2928,51.0,Female,White
+2929,31.0,Female,Black
+2930,32.0,Male,White
+2931,68.0,Male,White
+2932,22.0,Male,White
+2933,53.0,Female,White
+2934,55.0,Male,White
+2935,57.0,Female,Black
+2936,71.0,Male,White
+2937,31.0,Male,White
+2938,20.0,Male,White
+2939,58.0,Male,White
+2940,47.0,Female,White
+2941,37.0,Female,White
+2942,53.0,Male,White
+2943,56.0,Male,"Hispanic, White"
+2944,27.0,Male,White
+2945,42.0,Male,White
+2946,19.0,Female,White
+2947,31.0,Male,Black
+2948,40.0,Male,White
+2949,45.0,Female,White
+2950,40.0,Male,White
+2951,20.0,Male,White
+2952,38.0,Male,White
+2953,49.0,Male,White
+2954,61.0,Male,White
+2955,65.0,Female,White
+2956,59.0,Male,White
+2957,42.0,Male,White
+2958,52.0,Male,White
+2959,36.0,Male,White
+2960,43.0,Male,White
+2961,37.0,Male,White
+2962,47.0,Male,White
+2963,20.0,Male,White
+2964,32.0,Male,White
+2965,69.0,Male,White
+2966,50.0,Male,White
+2967,24.0,Male,White
+2968,38.0,Male,White
+2969,58.0,Female,White
+2970,61.0,Male,White
+2971,23.0,Female,White
+2972,50.0,Female,White
+2973,63.0,Male,White
+2974,44.0,Female,White
+2975,38.0,Male,White
+2976,53.0,Female,White
+2977,21.0,Female,White
+2978,28.0,Male,"Hispanic, White"
+2979,32.0,Male,White
+2980,50.0,Female,Unknown
+2981,37.0,Male,White
+2982,68.0,Male,White
+2983,59.0,Female,White
+2984,55.0,Male,"Hispanic, White"
+2985,50.0,Male,White
+2986,26.0,Male,White
+2987,37.0,Male,"Hispanic, White"
+2988,40.0,Male,Black
+2989,38.0,Male,White
+2990,46.0,Male,White
+2991,55.0,Male,White
+2992,55.0,Female,Black
+2993,33.0,Female,White
+2994,27.0,Male,Black
+2995,26.0,Male,White
+2996,23.0,Male,White
+2997,55.0,Male,White
+2998,52.0,Male,White
+2999,45.0,Male,White
+3000,59.0,Male,White
+3001,49.0,Male,Asian Indian
+3002,56.0,Male,White
+3003,22.0,Male,White
+3004,54.0,Female,White
+3005,26.0,Male,White
+3006,48.0,Female,White
+3007,62.0,Male,White
+3008,34.0,Male,Black
+3009,24.0,Male,White
+3010,53.0,Male,Black
+3011,39.0,Male,"Hispanic, White"
+3012,24.0,Male,White
+3013,20.0,Female,White
+3014,49.0,Male,White
+3015,65.0,Male,White
+3016,28.0,Female,White
+3017,44.0,Male,"Hispanic, White"
+3018,33.0,Male,White
+3019,22.0,Male,White
+3020,31.0,Male,"Hispanic, White"
+3021,27.0,Male,White
+3022,38.0,Male,White
+3023,32.0,Male,White
+3024,19.0,Female,White
+3025,59.0,Male,Black
+3026,59.0,Female,White
+3027,36.0,Male,White
+3028,36.0,Male,"Hispanic, White"
+3029,37.0,Male,White
+3030,40.0,Male,White
+3031,17.0,Male,"Hispanic, White"
+3032,62.0,Male,White
+3033,27.0,Female,White
+3034,38.0,Female,White
+3035,72.0,Female,White
+3036,51.0,Male,"Hispanic, White"
+3037,45.0,Male,White
+3038,34.0,Female,White
+3039,60.0,Male,White
+3040,27.0,Male,White
+3041,28.0,Female,"Hispanic, White"
+3042,52.0,Male,White
+3043,31.0,Male,White
+3044,65.0,Male,White
+3045,25.0,Female,White
+3046,55.0,Male,White
+3047,53.0,Female,"Hispanic, White"
+3048,57.0,Female,White
+3049,40.0,Male,"Hispanic, White"
+3050,47.0,Male,White
+3051,34.0,Male,White
+3052,49.0,Male,"Hispanic, White"
+3053,23.0,Female,White
+3054,39.0,Male,White
+3055,45.0,Female,White
+3056,50.0,Male,"Hispanic, White"
+3057,27.0,Female,White
+3058,45.0,Female,White
+3059,44.0,Female,White
+3060,36.0,Male,"Hispanic, White"
+3061,37.0,Male,White
+3062,30.0,Male,White
+3063,58.0,Male,White
+3064,28.0,Male,White
+3065,30.0,Male,White
+3066,35.0,Male,"Hispanic, White"
+3067,34.0,Male,White
+3068,49.0,Male,White
+3069,56.0,Male,"Hispanic, White"
+3070,35.0,Male,White
+3071,52.0,Male,White
+3072,34.0,Male,White
+3073,45.0,Male,White
+3074,54.0,Female,White
+3075,48.0,Female,White
+3076,61.0,Female,White
+3077,21.0,Male,White
+3078,60.0,Male,White
+3079,61.0,Female,White
+3080,52.0,Female,White
+3081,26.0,Male,"Hispanic, Black"
+3082,47.0,Male,White
+3083,54.0,Male,White
+3084,30.0,Male,White
+3085,58.0,Female,White
+3086,56.0,Male,White
+3087,32.0,Male,White
+3088,22.0,Male,Black
+3089,45.0,Male,White
+3090,45.0,Female,White
+3091,48.0,Male,White
+3092,48.0,Male,White
+3093,53.0,Male,White
+3094,25.0,Male,White
+3095,37.0,Female,White
+3096,58.0,Male,White
+3097,33.0,Male,White
+3098,40.0,Female,White
+3099,25.0,Male,White
+3100,49.0,Male,"Hispanic, White"
+3101,34.0,Male,White
+3102,59.0,Female,White
+3103,26.0,Female,White
+3104,29.0,Male,"Hispanic, White"
+3105,58.0,Male,"Hispanic, White"
+3106,58.0,Female,White
+3107,43.0,Male,White
+3108,29.0,Male,White
+3109,40.0,Male,White
+3110,30.0,Female,White
+3111,57.0,Male,White
+3112,22.0,Male,White
+3113,30.0,Male,White
+3114,53.0,Female,White
+3115,26.0,Female,White
+3116,36.0,Male,White
+3117,45.0,Female,White
+3118,37.0,Male,Asian Indian
+3119,26.0,Female,White
+3120,45.0,Male,White
+3121,49.0,Male,White
+3122,35.0,Male,White
+3123,46.0,Male,White
+3124,57.0,Male,White
+3125,22.0,Male,"Asian, Other"
+3126,52.0,Male,White
+3127,49.0,Male,Black
+3128,43.0,Male,"Hispanic, White"
+3129,48.0,Male,"Hispanic, White"
+3130,30.0,Female,White
+3131,63.0,Female,White
+3132,38.0,Male,White
+3133,37.0,Male,White
+3134,62.0,Male,White
+3135,17.0,Female,White
+3136,35.0,Male,White
+3137,54.0,Male,White
+3138,50.0,Male,Black
+3139,32.0,Male,White
+3140,57.0,Male,White
+3141,51.0,Male,White
+3142,43.0,Male,White
+3143,56.0,Female,White
+3144,21.0,Female,White
+3145,56.0,Male,"Hispanic, White"
+3146,44.0,Male,White
+3147,46.0,Male,White
+3148,24.0,Female,White
+3149,21.0,Male,White
+3150,63.0,Male,White
+3151,31.0,Male,White
+3152,56.0,Male,White
+3153,29.0,Male,White
+3154,42.0,Male,White
+3155,26.0,Male,White
+3156,44.0,Male,White
+3157,48.0,Female,White
+3158,29.0,Male,White
+3159,23.0,Female,Black
+3160,23.0,Male,White
+3161,23.0,Male,"Hispanic, White"
+3162,55.0,Male,White
+3163,26.0,Male,White
+3164,35.0,Male,White
+3165,32.0,Female,"Hispanic, White"
+3166,29.0,Male,White
+3167,39.0,Male,White
+3168,33.0,Male,White
+3169,52.0,Male,White
+3170,35.0,Male,White
+3171,49.0,Female,White
+3172,61.0,Male,White
+3173,39.0,Male,White
+3174,21.0,Male,White
+3175,51.0,Male,Black
+3176,50.0,Male,White
+3177,31.0,Male,White
+3178,42.0,Male,"Hispanic, White"
+3179,22.0,Male,White
+3180,44.0,Male,White
+3181,36.0,Male,White
+3182,34.0,Male,White
+3183,41.0,Male,White
+3184,56.0,Female,White
+3185,57.0,Female,White
+3186,47.0,Male,"Hispanic, Black"
+3187,37.0,Male,White
+3188,53.0,Male,"Hispanic, White"
+3189,64.0,Male,White
+3190,46.0,Male,White
+3191,50.0,Female,White
+3192,39.0,Female,"Hispanic, White"
+3193,57.0,Male,White
+3194,52.0,Female,White
+3195,49.0,Female,White
+3196,45.0,Male,Black
+3197,48.0,Male,White
+3198,33.0,Female,"Hispanic, White"
+3199,31.0,Male,White
+3200,55.0,Female,White
+3201,47.0,Female,White
+3202,41.0,Male,White
+3203,65.0,Male,"Hispanic, White"
+3204,60.0,Female,White
+3205,42.0,Female,White
+3206,26.0,Male,White
+3207,56.0,Male,"Hispanic, White"
+3208,36.0,Male,White
+3209,28.0,Male,"Hispanic, White"
+3210,21.0,Male,White
+3211,71.0,Female,White
+3212,33.0,Female,White
+3213,49.0,Female,White
+3214,57.0,Female,"Hispanic, White"
+3215,31.0,Female,White
+3216,27.0,Male,White
+3217,52.0,Male,White
+3218,41.0,Male,White
+3219,30.0,Female,White
+3220,51.0,Female,White
+3221,45.0,Female,White
+3222,32.0,Male,White
+3223,42.0,Male,"Hispanic, White"
+3224,33.0,Male,Black
+3225,50.0,Male,"Hispanic, White"
+3226,46.0,Male,White
+3227,33.0,Female,White
+3228,32.0,Female,White
+3229,24.0,Female,White
+3230,51.0,Male,Black
+3231,58.0,Male,White
+3232,50.0,Male,White
+3233,51.0,Female,Black
+3234,38.0,Male,White
+3235,49.0,Male,"Hispanic, White"
+3236,33.0,Male,White
+3237,56.0,Male,White
+3238,36.0,Male,"Hispanic, White"
+3239,43.0,Male,White
+3240,54.0,Female,White
+3241,28.0,Male,White
+3242,26.0,Female,White
+3243,42.0,Female,White
+3244,50.0,Male,Black
+3245,51.0,Male,White
+3246,21.0,Female,White
+3247,24.0,Male,White
+3248,46.0,Female,Black
+3249,66.0,Male,White
+3250,45.0,Male,White
+3251,58.0,Male,"Hispanic, White"
+3252,38.0,Female,Black
+3253,44.0,Female,White
+3254,50.0,Male,White
+3255,21.0,Female,White
+3256,28.0,Male,White
+3257,46.0,Male,White
+3258,55.0,Male,White
+3259,47.0,Male,White
+3260,31.0,Male,White
+3261,52.0,Male,White
+3262,38.0,Male,White
+3263,38.0,Male,White
+3264,37.0,Female,White
+3265,59.0,Male,"Hispanic, White"
+3266,29.0,Male,White
+3267,35.0,Male,White
+3268,30.0,Male,White
+3269,46.0,Male,White
+3270,60.0,Male,"Hispanic, White"
+3271,32.0,Male,White
+3272,19.0,Female,Unknown
+3273,29.0,Male,White
+3274,34.0,Female,White
+3275,55.0,Male,White
+3276,52.0,Female,White
+3277,38.0,Male,White
+3278,36.0,Male,White
+3279,30.0,Male,White
+3280,31.0,Male,"Hispanic, White"
+3281,48.0,Female,White
+3282,53.0,Male,"Hispanic, White"
+3283,59.0,Male,White
+3284,24.0,Male,White
+3285,25.0,Male,White
+3286,41.0,Male,"Hispanic, White"
+3287,48.0,Male,Black
+3288,46.0,Female,White
+3289,53.0,Female,White
+3290,30.0,Male,White
+3291,51.0,Male,White
+3292,45.0,Male,White
+3293,59.0,Female,White
+3294,41.0,Female,White
+3295,33.0,Male,White
+3296,66.0,Male,White
+3297,42.0,Male,"Hispanic, White"
+3298,55.0,Female,White
+3299,29.0,Female,White
+3300,26.0,Male,White
+3301,64.0,Male,White
+3302,47.0,Male,Other
+3303,22.0,Male,White
+3304,46.0,Male,White
+3305,63.0,Female,White
+3306,30.0,Female,White
+3307,50.0,Male,White
+3308,58.0,Female,White
+3309,51.0,Female,White
+3310,32.0,Male,White
+3311,49.0,Male,Black
+3312,39.0,Female,"Asian, Other"
+3313,34.0,Female,"Hispanic, White"
+3314,50.0,Male,"Hispanic, White"
+3315,57.0,Female,White
+3316,43.0,Female,White
+3317,63.0,Male,Black
+3318,58.0,Female,White
+3319,22.0,Male,White
+3320,41.0,Male,White
+3321,59.0,Male,"Hispanic, White"
+3322,29.0,Male,"Hispanic, White"
+3323,31.0,Female,White
+3324,27.0,Male,"Asian, Other"
+3325,37.0,Female,White
+3326,55.0,Male,White
+3327,24.0,Male,White
+3328,33.0,Female,White
+3329,22.0,Female,"Hispanic, White"
+3330,56.0,Male,White
+3331,43.0,Male,White
+3332,33.0,Male,Black
+3333,41.0,Female,White
+3334,54.0,Male,White
+3335,26.0,Male,White
+3336,21.0,Male,White
+3337,44.0,Male,"Native American, Other"
+3338,24.0,Male,White
+3339,47.0,Male,White
+3340,61.0,Male,White
+3341,50.0,Male,White
+3342,26.0,Male,White
+3343,39.0,Male,White
+3344,46.0,Male,White
+3345,56.0,Male,White
+3346,54.0,Female,Black
+3347,59.0,Male,White
+3348,52.0,Female,White
+3349,18.0,Male,White
+3350,57.0,Male,White
+3351,60.0,Female,White
+3352,23.0,Male,Chinese
+3353,20.0,Male,White
+3354,61.0,Male,White
+3355,39.0,Male,White
+3356,34.0,Male,White
+3357,49.0,Male,White
+3358,33.0,Male,White
+3359,42.0,Female,White
+3360,38.0,Female,White
+3361,25.0,Male,White
+3362,54.0,Female,"Hispanic, White"
+3363,41.0,Female,White
+3364,47.0,Male,White
+3365,36.0,Male,"Hispanic, White"
+3366,27.0,Female,White
+3367,44.0,Male,"Hispanic, White"
+3368,29.0,Female,White
+3369,40.0,Male,White
+3370,47.0,Male,White
+3371,57.0,Male,White
+3372,47.0,Male,White
+3373,29.0,Male,White
+3374,43.0,Male,White
+3375,34.0,Male,White
+3376,53.0,Male,White
+3377,41.0,Male,White
+3378,27.0,Male,White
+3379,35.0,Female,White
+3380,52.0,Male,White
+3381,33.0,Male,White
+3382,38.0,Female,"Hispanic, White"
+3383,49.0,Male,White
+3384,34.0,Male,White
+3385,64.0,Male,White
+3386,35.0,Male,White
+3387,59.0,Female,White
+3388,27.0,Female,White
+3389,28.0,Male,White
+3390,30.0,Male,"Hispanic, White"
+3391,27.0,Male,Black
+3392,59.0,Female,White
+3393,33.0,Female,"Hispanic, White"
+3394,38.0,Male,"Hispanic, White"
+3395,34.0,Male,White
+3396,22.0,Female,White
+3397,56.0,Male,White
+3398,33.0,Female,White
+3399,49.0,Male,White
+3400,59.0,Female,White
+3401,29.0,Male,Black
+3402,57.0,Male,White
+3403,26.0,Male,White
+3404,50.0,Female,White
+3405,44.0,Male,White
+3406,37.0,Male,White
+3407,51.0,Male,White
+3408,24.0,Female,White
+3409,57.0,Female,White
+3410,32.0,Male,White
+3411,37.0,Male,White
+3412,65.0,Male,White
+3413,28.0,Female,White
+3414,56.0,Male,White
+3415,25.0,Male,White
+3416,37.0,Male,White
+3417,31.0,Male,White
+3418,28.0,Male,"Hispanic, White"
+3419,45.0,Male,White
+3420,59.0,Male,Black
+3421,32.0,Male,Other
+3422,50.0,Male,White
+3423,34.0,Male,White
+3424,41.0,Male,"Hispanic, White"
+3425,48.0,Male,White
+3426,58.0,Female,White
+3427,45.0,Male,White
+3428,58.0,Female,White
+3429,57.0,Female,White
+3430,46.0,Male,Asian Indian
+3431,36.0,Female,White
+3432,30.0,Male,White
+3433,52.0,Male,"Hispanic, White"
+3434,29.0,Male,White
+3435,35.0,Male,White
+3436,51.0,Male,White
+3437,34.0,Male,White
+3438,51.0,Male,Black
+3439,47.0,Male,White
+3440,24.0,Male,White
+3441,46.0,Male,White
+3442,43.0,Female,White
+3443,54.0,Male,"Hispanic, White"
+3444,30.0,Female,White
+3445,45.0,Male,"Hispanic, Black"
+3446,40.0,Female,White
+3447,31.0,Male,White
+3448,71.0,Male,Black
+3449,59.0,Female,"Hispanic, White"
+3450,47.0,Male,White
+3451,35.0,Female,"Asian, Other"
+3452,51.0,Male,White
+3453,44.0,Male,"Hispanic, White"
+3454,49.0,Male,White
+3455,56.0,Male,White
+3456,35.0,Male,Black
+3457,35.0,Male,White
+3458,28.0,Male,White
+3459,42.0,Female,White
+3460,46.0,Female,Black
+3461,24.0,Male,White
+3462,42.0,Female,White
+3463,45.0,Female,White
+3464,51.0,Male,White
+3465,51.0,Male,White
+3466,45.0,Female,White
+3467,46.0,Male,White
+3468,40.0,Male,White
+3469,43.0,Male,White
+3470,44.0,Male,"Hispanic, White"
+3471,46.0,Male,White
+3472,28.0,Male,White
+3473,25.0,Female,White
+3474,57.0,Male,White
+3475,40.0,Male,White
+3476,41.0,Male,White
+3477,55.0,Male,"Hispanic, White"
+3478,25.0,Male,White
+3479,43.0,Male,"Hispanic, White"
+3480,47.0,Male,"Hispanic, White"
+3481,29.0,Female,White
+3482,30.0,Male,White
+3483,41.0,Male,White
+3484,63.0,Male,White
+3485,49.0,Male,White
+3486,31.0,Male,White
+3487,35.0,Female,White
+3488,24.0,Male,White
+3489,44.0,Male,Black
+3490,24.0,Male,White
+3491,51.0,Male,Black
+3492,52.0,Male,White
+3493,27.0,Male,White
+3494,39.0,Male,Asian Indian
+3495,24.0,Female,Black
+3496,57.0,Female,White
+3497,60.0,Male,White
+3498,21.0,Female,White
+3499,59.0,Male,White
+3500,47.0,Male,White
+3501,47.0,Male,"Hispanic, White"
+3502,27.0,Male,Other
+3503,46.0,Female,"Hispanic, White"
+3504,59.0,Male,Black
+3505,52.0,Male,Black
+3506,51.0,Male,White
+3507,36.0,Male,White
+3508,21.0,Female,White
+3509,42.0,Male,White
+3510,25.0,Male,White
+3511,33.0,Female,White
+3512,66.0,Female,White
+3513,40.0,Male,White
+3514,25.0,Male,White
+3515,29.0,Male,"Hispanic, White"
+3516,35.0,Male,White
+3517,50.0,Male,White
+3518,35.0,Male,"Hispanic, White"
+3519,46.0,Male,White
+3520,23.0,Male,White
+3521,36.0,Male,White
+3522,52.0,Female,White
+3523,44.0,Male,White
+3524,40.0,Male,White
+3525,31.0,Male,White
+3526,35.0,Male,White
+3527,28.0,Male,"Hispanic, White"
+3528,45.0,Male,"Hispanic, White"
+3529,25.0,Male,White
+3530,35.0,Male,White
+3531,38.0,Male,White
+3532,27.0,Male,White
+3533,48.0,Male,"Hispanic, White"
+3534,38.0,Male,White
+3535,36.0,Male,White
+3536,57.0,Male,White
+3537,22.0,Male,White
+3538,35.0,Male,White
+3539,38.0,Male,"Hispanic, White"
+3540,28.0,Female,White
+3541,53.0,Male,White
+3542,43.0,Male,"Hispanic, White"
+3543,22.0,Male,White
+3544,63.0,Male,White
+3545,46.0,Female,White
+3546,36.0,Male,White
+3547,54.0,Male,White
+3548,31.0,Female,White
+3549,33.0,Male,White
+3550,41.0,Female,White
+3551,57.0,Female,White
+3552,33.0,Male,White
+3553,32.0,Female,White
+3554,48.0,Male,White
+3555,48.0,Female,White
+3556,56.0,Male,White
+3557,38.0,Male,White
+3558,30.0,Male,White
+3559,64.0,Male,White
+3560,49.0,Male,White
+3561,38.0,Male,"Hispanic, White"
+3562,50.0,Male,White
+3563,21.0,Female,White
+3564,29.0,Male,White
+3565,35.0,Male,White
+3566,42.0,Male,White
+3567,32.0,Male,White
+3568,47.0,Female,White
+3569,48.0,Male,"Hispanic, White"
+3570,57.0,Male,White
+3571,59.0,Male,"Hispanic, White"
+3572,51.0,Male,White
+3573,53.0,Female,White
+3574,40.0,Female,White
+3575,31.0,Male,White
+3576,28.0,Female,White
+3577,45.0,Male,White
+3578,56.0,Male,White
+3579,27.0,Male,"Hispanic, White"
+3580,38.0,Male,"Hispanic, White"
+3581,18.0,Male,White
+3582,33.0,Male,White
+3583,40.0,Female,White
+3584,55.0,Female,White
+3585,41.0,,White
+3586,54.0,Female,"Hispanic, White"
+3587,22.0,Female,White
+3588,58.0,Male,White
+3589,60.0,Male,Unknown
+3590,30.0,Male,White
+3591,34.0,Female,White
+3592,46.0,Male,White
+3593,28.0,Male,"Hispanic, White"
+3594,54.0,Male,White
+3595,61.0,Female,"Hispanic, White"
+3596,29.0,Male,White
+3597,66.0,Male,White
+3598,52.0,Male,White
+3599,35.0,Male,White
+3600,57.0,Male,"Hispanic, White"
+3601,36.0,Male,White
+3602,34.0,Male,White
+3603,55.0,Male,White
+3604,59.0,Male,White
+3605,55.0,Female,"Asian, Other"
+3606,24.0,Male,White
+3607,39.0,Male,White
+3608,51.0,Male,White
+3609,45.0,Male,"Hispanic, White"
+3610,24.0,Male,White
+3611,33.0,Male,White
+3612,41.0,Male,"Hispanic, White"
+3613,34.0,Female,White
+3614,58.0,Male,Black
+3615,33.0,Male,White
+3616,51.0,Female,White
+3617,45.0,Male,White
+3618,57.0,Female,White
+3619,34.0,Male,"Hispanic, Black"
+3620,55.0,Female,White
+3621,53.0,Male,Black
+3622,24.0,Male,White
+3623,52.0,Male,White
+3624,26.0,Male,White
+3625,32.0,Male,White
+3626,32.0,Male,White
+3627,52.0,Male,White
+3628,55.0,Male,White
+3629,31.0,Male,White
+3630,31.0,Male,White
+3631,50.0,Male,White
+3632,54.0,Female,White
+3633,25.0,Male,White
+3634,34.0,Male,White
+3635,50.0,Female,White
+3636,43.0,Male,"Hispanic, White"
+3637,53.0,Male,White
+3638,54.0,Female,White
+3639,58.0,Male,Black
+3640,28.0,Male,White
+3641,49.0,Male,White
+3642,44.0,Male,White
+3643,56.0,Male,White
+3644,52.0,Male,White
+3645,60.0,Male,White
+3646,41.0,Male,White
+3647,39.0,Male,"Hispanic, White"
+3648,29.0,Female,White
+3649,25.0,Male,White
+3650,52.0,Male,White
+3651,35.0,Male,"Hispanic, White"
+3652,62.0,Male,Black
+3653,54.0,Male,White
+3654,56.0,Male,Black
+3655,36.0,Male,White
+3656,28.0,Male,White
+3657,51.0,Male,White
+3658,45.0,Male,White
+3659,49.0,Female,Black
+3660,54.0,Male,White
+3661,22.0,Female,White
+3662,62.0,Female,"Hispanic, White"
+3663,55.0,Male,Black
+3664,42.0,Male,White
+3665,27.0,Female,White
+3666,50.0,Male,White
+3667,35.0,Male,White
+3668,59.0,Male,White
+3669,56.0,Female,White
+3670,32.0,Male,White
+3671,45.0,Male,"Hispanic, White"
+3672,59.0,Male,White
+3673,33.0,Male,White
+3674,46.0,Male,White
+3675,49.0,Male,White
+3676,28.0,Male,White
+3677,53.0,Male,White
+3678,33.0,Male,White
+3679,40.0,Female,White
+3680,32.0,Male,White
+3681,55.0,Male,White
+3682,63.0,Male,White
+3683,31.0,Female,White
+3684,29.0,Female,White
+3685,59.0,Female,White
+3686,44.0,Male,White
+3687,60.0,Female,White
+3688,44.0,Male,White
+3689,34.0,Female,White
+3690,53.0,Male,Black
+3691,48.0,Male,White
+3692,32.0,Male,White
+3693,26.0,Male,White
+3694,75.0,Male,White
+3695,45.0,Male,White
+3696,41.0,Female,White
+3697,52.0,Female,White
+3698,23.0,Male,White
+3699,44.0,Male,White
+3700,41.0,Male,Black
+3701,43.0,Female,White
+3702,33.0,Male,White
+3703,25.0,Female,"Hispanic, White"
+3704,31.0,Male,Black
+3705,20.0,Male,White
+3706,28.0,Male,White
+3707,21.0,Female,White
+3708,40.0,Male,White
+3709,41.0,Male,White
+3710,32.0,Male,White
+3711,22.0,Female,White
+3712,35.0,Male,White
+3713,39.0,Female,White
+3714,37.0,Male,White
+3715,53.0,Female,White
+3716,31.0,Female,White
+3717,28.0,Male,White
+3718,47.0,Female,"Asian, Other"
+3719,51.0,Male,White
+3720,34.0,Male,White
+3721,54.0,Male,Black
+3722,18.0,Male,White
+3723,49.0,Male,White
+3724,27.0,Male,"Hispanic, White"
+3725,53.0,Male,White
+3726,29.0,Male,White
+3727,38.0,Male,White
+3728,46.0,Female,"Hispanic, White"
+3729,36.0,Male,White
+3730,39.0,Male,Black
+3731,59.0,Male,Black
+3732,49.0,Female,White
+3733,51.0,Female,Black
+3734,27.0,Male,Black
+3735,28.0,Female,White
+3736,54.0,Male,White
+3737,58.0,Female,White
+3738,27.0,Male,"Hispanic, Black"
+3739,49.0,Female,White
+3740,43.0,Male,White
+3741,58.0,Female,White
+3742,29.0,Male,Black
+3743,58.0,Male,White
+3744,50.0,Male,White
+3745,53.0,Male,White
+3746,39.0,Male,White
+3747,54.0,Female,White
+3748,30.0,Male,White
+3749,28.0,Male,Black
+3750,38.0,Female,White
+3751,28.0,Male,White
+3752,65.0,Female,White
+3753,53.0,Male,White
+3754,25.0,Female,White
+3755,55.0,Male,"Hispanic, White"
+3756,48.0,Male,White
+3757,47.0,Male,White
+3758,52.0,Male,White
+3759,20.0,Female,White
+3760,37.0,Male,White
+3761,32.0,Male,White
+3762,43.0,Male,White
+3763,40.0,Male,White
+3764,20.0,Female,"Hispanic, Black"
+3765,34.0,Female,White
+3766,55.0,Male,White
+3767,60.0,Male,Black
+3768,52.0,Male,White
+3769,39.0,Male,Black
+3770,45.0,Male,White
+3771,54.0,Male,White
+3772,29.0,Male,White
+3773,57.0,Female,Black
+3774,38.0,Female,Black
+3775,60.0,Male,White
+3776,20.0,Male,White
+3777,61.0,Male,White
+3778,44.0,Male,White
+3779,35.0,Female,White
+3780,56.0,Male,White
+3781,56.0,Male,White
+3782,59.0,Male,Black
+3783,44.0,Female,Black
+3784,56.0,Female,White
+3785,54.0,Male,Black
+3786,55.0,Male,White
+3787,38.0,Male,White
+3788,39.0,Male,White
+3789,55.0,Female,White
+3790,41.0,Male,White
+3791,32.0,Male,White
+3792,48.0,Male,Black
+3793,48.0,Male,White
+3794,54.0,Male,White
+3795,48.0,Male,White
+3796,59.0,Male,White
+3797,37.0,Male,White
+3798,56.0,Male,"Hispanic, White"
+3799,63.0,Female,White
+3800,32.0,Female,White
+3801,56.0,Female,White
+3802,31.0,Male,White
+3803,50.0,Male,"Hispanic, White"
+3804,53.0,Male,White
+3805,20.0,Male,Black
+3806,54.0,Male,White
+3807,32.0,Male,White
+3808,24.0,Male,White
+3809,21.0,Female,White
+3810,41.0,Female,White
+3811,32.0,Male,White
+3812,44.0,Male,White
+3813,30.0,Female,White
+3814,21.0,Female,White
+3815,41.0,Male,White
+3816,31.0,Male,White
+3817,43.0,Female,White
+3818,59.0,Male,"Hispanic, White"
+3819,47.0,Female,White
+3820,37.0,Female,White
+3821,38.0,Male,White
+3822,38.0,Male,White
+3823,54.0,Male,White
+3824,60.0,Female,Black
+3825,37.0,Male,White
+3826,26.0,Female,White
+3827,19.0,Male,White
+3828,21.0,Male,White
+3829,33.0,Male,White
+3830,39.0,Male,White
+3831,50.0,Male,"Hispanic, White"
+3832,50.0,Male,White
+3833,59.0,Male,White
+3834,35.0,Male,White
+3835,51.0,Female,Black
+3836,50.0,Male,White
+3837,47.0,Male,Black
+3838,25.0,Male,White
+3839,25.0,Female,White
+3840,48.0,Male,White
+3841,63.0,Male,White
+3842,51.0,Female,White
+3843,39.0,Male,White
+3844,31.0,Female,White
+3845,61.0,Male,White
+3846,32.0,Male,"Hispanic, White"
+3847,50.0,Female,White
+3848,59.0,Male,Black
+3849,36.0,Male,White
+3850,60.0,Female,"Hispanic, White"
+3851,50.0,Female,Unknown
+3852,47.0,Male,White
+3853,37.0,Female,White
+3854,25.0,Male,White
+3855,41.0,Male,"Hispanic, White"
+3856,55.0,Male,White
+3857,36.0,Male,White
+3858,40.0,Male,White
+3859,49.0,Male,White
+3860,25.0,Male,White
+3861,60.0,Male,White
+3862,48.0,Male,Black
+3863,17.0,Male,White
+3864,43.0,Male,White
+3865,45.0,Male,White
+3866,38.0,Male,White
+3867,27.0,Female,White
+3868,33.0,Female,White
+3869,43.0,Male,White
+3870,36.0,Male,"Hispanic, White"
+3871,42.0,Female,White
+3872,44.0,Female,White
+3873,33.0,Female,White
+3874,27.0,Male,"Hispanic, White"
+3875,39.0,Female,White
+3876,56.0,Female,White
+3877,53.0,Female,White
+3878,35.0,Female,White
+3879,33.0,Male,White
+3880,28.0,Female,White
+3881,30.0,Male,Black
+3882,30.0,Male,White
+3883,54.0,Female,White
+3884,57.0,Male,White
+3885,29.0,Male,White
+3886,33.0,Male,White
+3887,45.0,Male,White
+3888,28.0,Male,White
+3889,62.0,Male,White
+3890,26.0,Male,White
+3891,60.0,Male,White
+3892,52.0,Female,White
+3893,55.0,Male,Black
+3894,57.0,Female,White
+3895,25.0,Female,White
+3896,43.0,Male,"Hispanic, White"
+3897,61.0,Male,Black
+3898,50.0,Male,White
+3899,52.0,Male,White
+3900,20.0,Male,White
+3901,48.0,Male,White
+3902,43.0,Male,White
+3903,46.0,Male,"Hispanic, White"
+3904,46.0,Male,"Hispanic, White"
+3905,48.0,Male,"Hispanic, White"
+3906,50.0,Male,White
+3907,43.0,Female,White
+3908,43.0,Male,White
+3909,35.0,Male,White
+3910,34.0,Male,White
+3911,52.0,Female,White
+3912,25.0,Female,White
+3913,59.0,Male,White
+3914,45.0,Male,White
+3915,34.0,Male,"Hispanic, White"
+3916,42.0,Male,"Hispanic, White"
+3917,39.0,Male,White
+3918,47.0,Female,White
+3919,32.0,Male,White
+3920,41.0,Male,"Hispanic, White"
+3921,29.0,Male,White
+3922,41.0,Male,White
+3923,50.0,Female,"Hispanic, White"
+3924,53.0,Male,White
+3925,39.0,Female,White
+3926,50.0,Male,White
+3927,64.0,Male,"Hispanic, White"
+3928,36.0,Male,White
+3929,50.0,Male,White
+3930,48.0,Female,White
+3931,27.0,Female,White
+3932,67.0,Male,White
+3933,34.0,Male,White
+3934,54.0,Female,White
+3935,48.0,Female,White
+3936,55.0,Male,White
+3937,36.0,Male,"Hispanic, White"
+3938,24.0,Female,White
+3939,40.0,Male,Black
+3940,49.0,Female,Black
+3941,27.0,Male,"Hispanic, Black"
+3942,54.0,Male,White
+3943,48.0,Female,Black
+3944,61.0,Female,Black
+3945,48.0,Female,White
+3946,52.0,Male,White
+3947,52.0,Male,White
+3948,27.0,Female,White
+3949,26.0,Male,White
+3950,21.0,Male,White
+3951,55.0,Male,White
+3952,50.0,Male,White
+3953,43.0,Female,White
+3954,42.0,Male,"Hispanic, White"
+3955,28.0,Male,White
+3956,46.0,Male,White
+3957,24.0,Male,White
+3958,49.0,Male,White
+3959,55.0,Male,White
+3960,27.0,Male,White
+3961,32.0,Male,White
+3962,53.0,Male,Black
+3963,34.0,Female,White
+3964,29.0,Female,White
+3965,35.0,Male,White
+3966,24.0,Male,White
+3967,54.0,Male,Unknown
+3968,35.0,Male,White
+3969,44.0,Female,White
+3970,56.0,Male,White
+3971,56.0,Male,White
+3972,45.0,Male,"Hispanic, White"
+3973,32.0,Male,White
+3974,23.0,Male,White
+3975,48.0,Male,Black
+3976,29.0,Male,White
+3977,39.0,,"Hispanic, White"
+3978,32.0,Female,White
+3979,52.0,Male,White
+3980,64.0,Female,White
+3981,35.0,Male,White
+3982,46.0,Male,"Hispanic, White"
+3983,51.0,Female,White
+3984,45.0,Male,White
+3985,51.0,Male,White
+3986,50.0,Male,White
+3987,25.0,Female,White
+3988,50.0,Male,White
+3989,51.0,Male,Asian Indian
+3990,32.0,Male,White
+3991,32.0,Male,White
+3992,32.0,Male,"Hispanic, White"
+3993,54.0,Male,White
+3994,31.0,Female,White
+3995,40.0,Male,White
+3996,24.0,Male,White
+3997,62.0,Male,White
+3998,48.0,Male,White
+3999,24.0,Male,White
+4000,17.0,Male,White
+4001,54.0,Female,White
+4002,36.0,Female,White
+4003,53.0,Male,White
+4004,28.0,Male,White
+4005,69.0,Male,White
+4006,39.0,Female,White
+4007,47.0,Male,White
+4008,58.0,Male,White
+4009,44.0,Female,White
+4010,66.0,Female,White
+4011,41.0,Male,White
+4012,62.0,Male,White
+4013,29.0,Male,White
+4014,60.0,Male,White
+4015,51.0,Female,White
+4016,37.0,Male,White
+4017,49.0,Female,White
+4018,46.0,Male,White
+4019,41.0,Male,White
+4020,27.0,Male,White
+4021,56.0,Male,White
+4022,47.0,Male,"Hispanic, White"
+4023,54.0,Male,White
+4024,33.0,Male,White
+4025,47.0,Male,White
+4026,51.0,Male,White
+4027,35.0,Male,White
+4028,57.0,Female,Black
+4029,24.0,Male,White
+4030,36.0,Male,White
+4031,31.0,Male,White
+4032,60.0,Male,White
+4033,39.0,Male,White
+4034,50.0,Male,White
+4035,53.0,Female,White
+4036,60.0,Male,Black
+4037,21.0,Male,White
+4038,54.0,Male,White
+4039,49.0,Male,"Hispanic, White"
+4040,47.0,Male,White
+4041,28.0,Female,White
+4042,53.0,Female,Black
+4043,34.0,Male,White
+4044,47.0,Male,White
+4045,45.0,Male,"Hispanic, White"
+4046,55.0,Female,White
+4047,49.0,Male,White
+4048,30.0,Male,White
+4049,29.0,Male,White
+4050,46.0,Male,White
+4051,30.0,Male,White
+4052,50.0,Female,White
+4053,63.0,Female,Black
+4054,47.0,Male,White
+4055,31.0,Male,White
+4056,48.0,Female,White
+4057,38.0,Male,White
+4058,24.0,Male,White
+4059,23.0,Male,White
+4060,60.0,Male,White
+4061,48.0,Female,White
+4062,57.0,Male,White
+4063,46.0,Male,White
+4064,57.0,Male,White
+4065,56.0,Female,White
+4066,32.0,Female,White
+4067,35.0,Male,White
+4068,48.0,Male,"Hispanic, White"
+4069,46.0,Male,White
+4070,55.0,Male,White
+4071,28.0,Female,White
+4072,51.0,Male,White
+4073,48.0,Male,White
+4074,33.0,Male,White
+4075,52.0,Male,White
+4076,35.0,Male,White
+4077,20.0,Female,Black
+4078,51.0,Male,White
+4079,41.0,Male,White
+4080,25.0,Male,White
+4081,37.0,Female,White
+4082,46.0,Male,"Hispanic, White"
+4083,51.0,Male,White
+4084,31.0,Male,White
+4085,44.0,Male,White
+4086,44.0,Male,"Hispanic, White"
+4087,48.0,Female,White
+4088,55.0,Male,White
+4089,53.0,Male,White
+4090,54.0,Male,White
+4091,43.0,Female,White
+4092,57.0,Male,"Hispanic, White"
+4093,23.0,Male,White
+4094,51.0,Male,Unknown
+4095,59.0,Female,White
+4096,43.0,Male,White
+4097,40.0,Male,White
+4098,50.0,Male,White
+4099,28.0,Male,White
+4100,38.0,Male,Black
+4101,36.0,Male,White
+4102,46.0,Male,White
+4103,23.0,Male,"Hispanic, White"
+4104,50.0,Female,White
+4105,62.0,Male,White
+4106,49.0,Female,White
+4107,60.0,Male,White
+4108,28.0,Male,White
+4109,33.0,Male,White
+4110,63.0,Male,White
+4111,26.0,Male,Black
+4112,43.0,Male,White
+4113,28.0,Male,White
+4114,58.0,Female,White
+4115,49.0,Female,White
+4116,47.0,Female,Black
+4117,45.0,Female,"Hispanic, White"
+4118,40.0,Male,White
+4119,37.0,Female,White
+4120,50.0,Male,White
+4121,22.0,Female,White
+4122,32.0,Male,White
+4123,43.0,Female,White
+4124,25.0,Male,White
+4125,53.0,Male,White
+4126,68.0,Female,White
+4127,56.0,Male,Black
+4128,27.0,Female,Asian Indian
+4129,34.0,Male,Black
+4130,22.0,Male,White
+4131,66.0,Female,White
+4132,63.0,Male,White
+4133,54.0,Male,White
+4134,50.0,Female,"Hispanic, White"
+4135,36.0,Male,White
+4136,55.0,Male,White
+4137,54.0,Male,White
+4138,44.0,Female,Black
+4139,58.0,Male,White
+4140,28.0,Male,White
+4141,39.0,Female,White
+4142,22.0,Male,"Hispanic, White"
+4143,31.0,Male,White
+4144,28.0,Male,White
+4145,39.0,Female,White
+4146,56.0,Male,White
+4147,53.0,Male,Black
+4148,40.0,Female,
+4149,57.0,Female,White
+4150,50.0,Male,Black
+4151,48.0,Male,White
+4152,57.0,Female,White
+4153,48.0,Male,"Hispanic, White"
+4154,31.0,Male,Black
+4155,54.0,Female,"Hispanic, Black"
+4156,51.0,Male,White
+4157,48.0,Male,White
+4158,40.0,Female,White
+4159,30.0,Male,White
+4160,29.0,Male,"Hispanic, White"
+4161,47.0,Male,"Hispanic, White"
+4162,38.0,Female,White
+4163,43.0,Male,White
+4164,37.0,Male,White
+4165,58.0,Male,White
+4166,50.0,Female,White
+4167,58.0,Female,White
+4168,45.0,Female,White
+4169,57.0,Male,Black
+4170,39.0,Male,Black
+4171,31.0,Male,White
+4172,53.0,Male,White
+4173,31.0,Female,White
+4174,49.0,Male,White
+4175,34.0,Male,White
+4176,33.0,Male,White
+4177,37.0,Male,White
+4178,51.0,Male,White
+4179,46.0,Male,White
+4180,49.0,Male,White
+4181,28.0,Male,Black
+4182,59.0,Female,White
+4183,57.0,Male,White
+4184,62.0,Male,White
+4185,45.0,Male,White
+4186,26.0,Female,White
+4187,59.0,Female,Black
+4188,39.0,Male,White
+4189,26.0,Male,Black
+4190,49.0,Male,White
+4191,45.0,Male,White
+4192,25.0,Male,White
+4193,51.0,Male,White
+4194,56.0,Male,White
+4195,36.0,Male,White
+4196,39.0,Male,"Hispanic, White"
+4197,50.0,Female,Black
+4198,62.0,Male,White
+4199,62.0,Male,White
+4200,44.0,Male,White
+4201,21.0,Male,White
+4202,36.0,Male,White
+4203,53.0,Male,White
+4204,58.0,Male,Hawaiian
+4205,68.0,Male,Black
+4206,29.0,Male,White
+4207,30.0,Male,"Hispanic, White"
+4208,39.0,Male,White
+4209,33.0,Male,White
+4210,22.0,Male,White
+4211,39.0,Male,White
+4212,35.0,Female,White
+4213,27.0,Male,White
+4214,42.0,Male,White
+4215,34.0,Male,"Hispanic, White"
+4216,44.0,Female,White
+4217,33.0,Male,White
+4218,68.0,Female,White
+4219,47.0,Male,White
+4220,58.0,Male,White
+4221,35.0,Male,White
+4222,31.0,Male,White
+4223,53.0,Female,White
+4224,61.0,Male,Black
+4225,37.0,Male,White
+4226,61.0,Male,"Hispanic, White"
+4227,65.0,Male,White
+4228,33.0,Male,"Hispanic, White"
+4229,31.0,Male,White
+4230,51.0,Female,White
+4231,46.0,Male,White
+4232,37.0,Male,White
+4233,28.0,Male,White
+4234,55.0,Female,White
+4235,51.0,Female,White
+4236,52.0,Male,White
+4237,53.0,Male,White
+4238,29.0,Male,White
+4239,61.0,Female,Black
+4240,63.0,Male,White
+4241,49.0,Male,"Hispanic, White"
+4242,41.0,Male,White
+4243,52.0,Male,White
+4244,50.0,Female,White
+4245,51.0,Male,White
+4246,58.0,Male,White
+4247,23.0,Male,White
+4248,23.0,Male,White
+4249,50.0,Female,Black
+4250,35.0,Male,White
+4251,57.0,Female,White
+4252,56.0,Female,Black
+4253,46.0,Male,White
+4254,35.0,Male,White
+4255,54.0,Male,White
+4256,54.0,Male,"Hispanic, White"
+4257,19.0,Male,"Hispanic, White"
+4258,48.0,Male,"Hispanic, White"
+4259,44.0,Male,White
+4260,36.0,Female,White
+4261,26.0,Male,"Hispanic, White"
+4262,29.0,Male,White
+4263,37.0,Male,Black
+4264,41.0,Male,"Hispanic, White"
+4265,44.0,Male,White
+4266,54.0,Male,White
+4267,29.0,Male,White
+4268,44.0,Male,White
+4269,53.0,Female,White
+4270,31.0,Male,Black
+4271,40.0,Female,White
+4272,26.0,Male,White
+4273,29.0,Male,White
+4274,52.0,Male,
+4275,36.0,Male,Black
+4276,66.0,Male,"Hispanic, White"
+4277,34.0,Male,"Hispanic, White"
+4278,61.0,Male,White
+4279,59.0,Male,White
+4280,52.0,Male,White
+4281,25.0,Female,White
+4282,48.0,Male,White
+4283,49.0,Female,"Hispanic, White"
+4284,27.0,Female,White
+4285,27.0,Female,White
+4286,23.0,Female,White
+4287,22.0,Male,White
+4288,33.0,Male,White
+4289,24.0,Male,White
+4290,56.0,Male,Black
+4291,57.0,Male,White
+4292,45.0,Male,White
+4293,51.0,Female,White
+4294,59.0,Male,"Hispanic, White"
+4295,56.0,Male,Black
+4296,53.0,Male,"Hispanic, White"
+4297,39.0,Male,White
+4298,32.0,Female,White
+4299,45.0,Female,White
+4300,45.0,Female,
+4301,32.0,Male,White
+4302,46.0,Male,White
+4303,49.0,Female,White
+4304,48.0,Female,White
+4305,33.0,Female,White
+4306,53.0,Female,White
+4307,40.0,Male,White
+4308,45.0,Male,White
+4309,56.0,Male,Black
+4310,48.0,Male,White
+4311,64.0,Male,Black
+4312,51.0,Male,White
+4313,30.0,Male,White
+4314,39.0,Male,White
+4315,57.0,Male,White
+4316,54.0,Female,White
+4317,49.0,Male,White
+4318,28.0,Male,White
+4319,25.0,Male,White
+4320,60.0,Male,White
+4321,50.0,Male,White
+4322,35.0,Male,White
+4323,58.0,Male,White
+4324,49.0,Male,White
+4325,48.0,Female,White
+4326,50.0,Male,Black
+4327,38.0,Female,White
+4328,44.0,Male,"Hispanic, White"
+4329,36.0,Male,White
+4330,29.0,Male,White
+4331,30.0,Male,White
+4332,57.0,Male,White
+4333,27.0,Female,White
+4334,36.0,Female,"Hispanic, White"
+4335,34.0,Male,White
+4336,29.0,Male,White
+4337,26.0,Male,White
+4338,60.0,Male,White
+4339,45.0,Male,White
+4340,48.0,Female,White
+4341,46.0,Male,White
+4342,21.0,Female,White
+4343,34.0,Female,White
+4344,54.0,Male,White
+4345,39.0,Male,White
+4346,50.0,Male,Black
+4347,58.0,Male,White
+4348,31.0,Male,White
+4349,55.0,Female,"Hispanic, White"
+4350,33.0,Male,White
+4351,46.0,Male,White
+4352,22.0,Male,White
+4353,52.0,Male,White
+4354,32.0,Male,White
+4355,46.0,Male,White
+4356,41.0,Male,White
+4357,40.0,Male,"Hispanic, White"
+4358,31.0,Male,White
+4359,49.0,Male,White
+4360,51.0,Male,White
+4361,44.0,Male,White
+4362,43.0,Male,"Hispanic, White"
+4363,52.0,Female,White
+4364,59.0,Male,Black
+4365,56.0,Male,Black
+4366,56.0,Female,White
+4367,32.0,Male,White
+4368,43.0,Male,White
+4369,47.0,Female,White
+4370,52.0,Male,White
+4371,41.0,Female,Black
+4372,42.0,Male,White
+4373,46.0,Male,White
+4374,36.0,Male,Black
+4375,24.0,Male,White
+4376,48.0,Male,White
+4377,54.0,Female,White
+4378,32.0,Male,White
+4379,24.0,Female,White
+4380,25.0,Male,White
+4381,35.0,Male,White
+4382,53.0,Male,White
+4383,43.0,Male,White
+4384,50.0,Female,White
+4385,35.0,Female,White
+4386,63.0,Male,"Hispanic, White"
+4387,54.0,Male,White
+4388,58.0,Female,Black
+4389,33.0,Male,White
+4390,51.0,Female,White
+4391,31.0,Male,"Hispanic, White"
+4392,48.0,Male,White
+4393,44.0,Female,White
+4394,57.0,Female,White
+4395,52.0,Male,White
+4396,62.0,Female,White
+4397,45.0,Male,White
+4398,58.0,Female,White
+4399,56.0,Male,White
+4400,61.0,Male,White
+4401,36.0,Female,White
+4402,59.0,Male,White
+4403,49.0,Male,White
+4404,23.0,Male,White
+4405,36.0,Male,White
+4406,22.0,Male,White
+4407,30.0,Male,White
+4408,50.0,Male,White
+4409,19.0,Male,White
+4410,59.0,Male,Unknown
+4411,28.0,Female,White
+4412,19.0,Male,White
+4413,26.0,Male,White
+4414,34.0,Female,White
+4415,41.0,Male,White
+4416,57.0,Male,"Hispanic, White"
+4417,53.0,Female,White
+4418,23.0,Male,White
+4419,29.0,Female,"Hispanic, White"
+4420,52.0,Male,White
+4421,35.0,Male,"Hispanic, White"
+4422,37.0,Female,White
+4423,45.0,Female,White
+4424,26.0,Female,"Hispanic, White"
+4425,27.0,Male,Black
+4426,51.0,Female,White
+4427,26.0,Female,White
+4428,21.0,Female,Black
+4429,29.0,Female,White
+4430,67.0,Male,"Hispanic, White"
+4431,25.0,Male,"Hispanic, White"
+4432,65.0,Female,Black
+4433,63.0,Male,White
+4434,44.0,Female,White
+4435,32.0,Male,White
+4436,43.0,Male,White
+4437,33.0,Male,White
+4438,31.0,Female,White
+4439,46.0,Male,White
+4440,61.0,Male,White
+4441,63.0,Male,"Hispanic, White"
+4442,24.0,Female,White
+4443,38.0,Female,White
+4444,27.0,Male,White
+4445,60.0,Male,White
+4446,66.0,Male,Black
+4447,26.0,Female,White
+4448,33.0,Male,White
+4449,50.0,Male,White
+4450,35.0,Male,"Hispanic, White"
+4451,34.0,Male,White
+4452,64.0,Male,"Hispanic, White"
+4453,28.0,Female,White
+4454,48.0,Female,White
+4455,58.0,Male,"Hispanic, White"
+4456,27.0,Male,White
+4457,81.0,Female,White
+4458,24.0,Female,White
+4459,38.0,Male,White
+4460,44.0,Female,White
+4461,46.0,Male,White
+4462,43.0,Male,White
+4463,59.0,Female,White
+4464,52.0,Male,White
+4465,48.0,Male,White
+4466,46.0,Male,White
+4467,41.0,Male,White
+4468,57.0,Male,White
+4469,44.0,Male,White
+4470,34.0,Male,White
+4471,47.0,Male,Black
+4472,38.0,Male,Black
+4473,26.0,Male,"Hispanic, White"
+4474,62.0,Female,White
+4475,40.0,Male,White
+4476,31.0,Male,White
+4477,53.0,Female,White
+4478,28.0,Male,White
+4479,28.0,Female,White
+4480,62.0,Male,White
+4481,19.0,Male,White
+4482,29.0,Male,White
+4483,31.0,Female,White
+4484,49.0,Male,White
+4485,58.0,Male,Black
+4486,26.0,Male,"Hispanic, White"
+4487,58.0,Male,"Hispanic, White"
+4488,58.0,Male,White
+4489,57.0,Male,White
+4490,38.0,Male,White
+4491,39.0,Female,White
+4492,41.0,Male,White
+4493,33.0,Male,Black
+4494,53.0,Female,Black
+4495,37.0,Male,White
+4496,32.0,Male,White
+4497,35.0,Male,White
+4498,40.0,Male,"Hispanic, White"
+4499,18.0,Male,White
+4500,31.0,Male,White
+4501,55.0,Female,White
+4502,39.0,Male,White
+4503,27.0,Female,White
+4504,22.0,Male,Black
+4505,60.0,Female,White
+4506,34.0,Female,White
+4507,48.0,Female,White
+4508,44.0,Male,White
+4509,49.0,Male,White
+4510,38.0,Male,White
+4511,56.0,Male,White
+4512,53.0,Male,White
+4513,39.0,Male,White
+4514,55.0,Male,Black
+4515,57.0,Male,"Hispanic, White"
+4516,45.0,Female,White
+4517,27.0,Male,Asian Indian
+4518,30.0,Male,White
+4519,42.0,Male,Black
+4520,22.0,Male,White
+4521,57.0,Male,"Hispanic, White"
+4522,38.0,Male,White
+4523,29.0,Male,White
+4524,71.0,Male,Black
+4525,34.0,Female,"Hispanic, White"
+4526,43.0,Male,White
+4527,45.0,Female,White
+4528,26.0,Male,White
+4529,35.0,Male,Black
+4530,42.0,Male,White
+4531,36.0,Male,White
+4532,55.0,Male,White
+4533,44.0,Male,"Hispanic, White"
+4534,54.0,Male,White
+4535,66.0,Male,White
+4536,53.0,Male,White
+4537,52.0,Female,White
+4538,55.0,Male,"Hispanic, White"
+4539,34.0,Male,White
+4540,41.0,Male,White
+4541,22.0,Male,White
+4542,24.0,Female,White
+4543,35.0,Female,White
+4544,32.0,Male,White
+4545,72.0,Female,"Hispanic, White"
+4546,53.0,Male,White
+4547,40.0,Male,White
+4548,40.0,Male,White
+4549,34.0,Female,White
+4550,41.0,Female,White
+4551,40.0,Male,White
+4552,60.0,Male,White
+4553,60.0,Male,White
+4554,46.0,Male,White
+4555,33.0,Male,White
+4556,57.0,Female,White
+4557,29.0,Male,White
+4558,32.0,Male,White
+4559,27.0,Male,White
+4560,37.0,Male,White
+4561,66.0,Female,White
+4562,57.0,Male,White
+4563,39.0,Female,White
+4564,51.0,Male,White
+4565,30.0,Female,"Hispanic, White"
+4566,35.0,Female,White
+4567,53.0,Male,White
+4568,40.0,Male,White
+4569,46.0,Male,White
+4570,51.0,Male,Black
+4571,35.0,Male,White
+4572,19.0,Male,White
+4573,29.0,Female,Black
+4574,64.0,Male,Black
+4575,37.0,Male,White
+4576,30.0,Female,White
+4577,54.0,Male,White
+4578,45.0,Male,White
+4579,63.0,Male,White
+4580,46.0,Male,White
+4581,22.0,Male,White
+4582,51.0,Female,White
+4583,27.0,Female,White
+4584,58.0,Male,White
+4585,41.0,Male,"Hispanic, White"
+4586,34.0,Male,White
+4587,40.0,Male,Black
+4588,46.0,Female,Black
+4589,29.0,Male,White
+4590,30.0,Male,White
+4591,32.0,Male,White
+4592,34.0,Male,White
+4593,33.0,Male,White
+4594,57.0,Female,White
+4595,41.0,Male,White
+4596,55.0,Male,"Hispanic, White"
+4597,55.0,Male,"Hispanic, White"
+4598,35.0,Male,"Hispanic, White"
+4599,44.0,Male,White
+4600,26.0,Male,"Hispanic, White"
+4601,29.0,Male,White
+4602,22.0,Male,White
+4603,27.0,Female,White
+4604,26.0,Male,"Hispanic, White"
+4605,24.0,Male,White
+4606,47.0,Male,"Hispanic, White"
+4607,49.0,Male,Black
+4608,24.0,Male,White
+4609,28.0,Male,White
+4610,47.0,Female,White
+4611,50.0,Male,"Hispanic, White"
+4612,49.0,Male,White
+4613,62.0,Female,White
+4614,60.0,Female,White
+4615,57.0,Female,White
+4616,48.0,Female,White
+4617,62.0,Female,White
+4618,57.0,Male,White
+4619,27.0,Male,"Hispanic, White"
+4620,47.0,Male,White
+4621,31.0,Male,White
+4622,42.0,Female,White
+4623,49.0,Male,White
+4624,72.0,Female,White
+4625,60.0,Male,White
+4626,36.0,Female,White
+4627,56.0,Male,White
+4628,53.0,Male,White
+4629,33.0,Male,White
+4630,66.0,Male,Black
+4631,23.0,Male,White
+4632,49.0,Female,White
+4633,33.0,Male,White
+4634,34.0,Male,White
+4635,26.0,Male,White
+4636,58.0,Male,Black
+4637,43.0,Male,White
+4638,23.0,Male,White
+4639,57.0,Female,White
+4640,29.0,Male,White
+4641,33.0,Female,White
+4642,39.0,Male,Black
+4643,35.0,Male,"Hispanic, White"
+4644,55.0,Male,White
+4645,38.0,Female,White
+4646,55.0,Male,"Hispanic, White"
+4647,17.0,Female,White
+4648,61.0,Male,White
+4649,50.0,Male,White
+4650,45.0,Male,White
+4651,52.0,Male,White
+4652,26.0,Female,White
+4653,29.0,Female,Black
+4654,36.0,Female,White
+4655,33.0,Male,White
+4656,64.0,Male,White
+4657,31.0,Male,White
+4658,27.0,Male,White
+4659,37.0,Male,White
+4660,68.0,Male,Black
+4661,61.0,Male,White
+4662,55.0,Male,White
+4663,52.0,Male,White
+4664,69.0,Male,Black
+4665,68.0,Female,White
+4666,52.0,Male,White
+4667,20.0,Male,White
+4668,66.0,Female,White
+4669,54.0,Male,White
+4670,44.0,Male,White
+4671,51.0,Male,White
+4672,56.0,Male,White
+4673,25.0,Male,"Hispanic, White"
+4674,52.0,Male,White
+4675,66.0,Male,"Hispanic, White"
+4676,46.0,Female,"Hispanic, White"
+4677,35.0,Female,White
+4678,46.0,Male,White
+4679,51.0,Male,White
+4680,52.0,Male,White
+4681,50.0,Male,"Hispanic, White"
+4682,22.0,Male,White
+4683,54.0,Female,White
+4684,30.0,Male,White
+4685,18.0,Male,White
+4686,36.0,Female,White
+4687,54.0,Male,White
+4688,52.0,Male,White
+4689,17.0,Female,White
+4690,50.0,Male,White
+4691,24.0,Male,White
+4692,51.0,Female,"Hispanic, White"
+4693,60.0,Male,Black
+4694,49.0,Female,Black
+4695,53.0,Male,White
+4696,53.0,Male,White
+4697,40.0,Male,White
+4698,47.0,Male,White
+4699,36.0,Male,White
+4700,32.0,Male,Black
+4701,55.0,Male,White
+4702,42.0,Male,White
+4703,58.0,Female,Black
+4704,61.0,Male,White
+4705,23.0,Male,"Hispanic, White"
+4706,40.0,Male,White
+4707,34.0,Male,"Hispanic, White"
+4708,47.0,Female,White
+4709,23.0,Male,White
+4710,54.0,Male,White
+4711,61.0,Male,White
+4712,42.0,Female,White
+4713,34.0,Male,White
+4714,55.0,Female,White
+4715,38.0,Male,White
+4716,37.0,Male,White
+4717,58.0,Male,Black
+4718,41.0,Male,White
+4719,52.0,Female,White
+4720,41.0,Male,"Hispanic, White"
+4721,34.0,Male,White
+4722,45.0,Male,White
+4723,51.0,Male,White
+4724,46.0,Male,White
+4725,48.0,Female,"Asian, Other"
+4726,33.0,Male,White
+4727,49.0,Male,White
+4728,63.0,Male,White
+4729,45.0,Male,White
+4730,24.0,Male,White
+4731,44.0,Male,White
+4732,23.0,Male,White
+4733,30.0,Male,White
+4734,25.0,Male,White
+4735,49.0,Male,White
+4736,42.0,Female,Black
+4737,40.0,Male,White
+4738,56.0,Male,White
+4739,49.0,Male,"Hispanic, White"
+4740,35.0,Male,"Hispanic, White"
+4741,49.0,Female,"Hispanic, White"
+4742,26.0,Female,White
+4743,19.0,Male,White
+4744,43.0,Male,White
+4745,39.0,Male,White
+4746,38.0,Female,White
+4747,58.0,Male,White
+4748,44.0,Male,"Hispanic, White"
+4749,26.0,Male,White
+4750,45.0,Female,"Hispanic, White"
+4751,36.0,Male,White
+4752,38.0,Male,White
+4753,56.0,Female,White
+4754,41.0,Female,"Hispanic, White"
+4755,23.0,Male,White
+4756,35.0,Male,White
+4757,32.0,Male,White
+4758,32.0,Male,White
+4759,33.0,Male,White
+4760,46.0,Male,White
+4761,26.0,Female,White
+4762,46.0,Male,White
+4763,32.0,Male,White
+4764,30.0,Male,White
+4765,43.0,Male,White
+4766,33.0,Male,White
+4767,49.0,Female,White
+4768,39.0,Male,White
+4769,47.0,Male,White
+4770,30.0,Male,White
+4771,58.0,Female,White
+4772,60.0,Female,White
+4773,42.0,Male,White
+4774,53.0,Male,Black
+4775,63.0,Female,White
+4776,30.0,Male,Black
+4777,33.0,Male,White
+4778,49.0,Female,Black
+4779,67.0,Male,White
+4780,34.0,Female,White
+4781,33.0,Male,White
+4782,49.0,Male,White
+4783,50.0,Male,White
+4784,24.0,Male,White
+4785,68.0,Male,White
+4786,48.0,Male,"Hispanic, White"
+4787,38.0,Male,White
+4788,36.0,Female,White
+4789,44.0,Male,Black
+4790,50.0,Female,White
+4791,48.0,Female,White
+4792,29.0,Male,White
+4793,55.0,Male,White
+4794,51.0,Male,White
+4795,29.0,Male,White
+4796,22.0,Female,"Hispanic, White"
+4797,44.0,Male,Black
+4798,34.0,Male,White
+4799,38.0,Male,White
+4800,28.0,Female,White
+4801,62.0,Male,White
+4802,43.0,Male,White
+4803,63.0,Female,White
+4804,54.0,Male,White
+4805,63.0,Female,Black
+4806,24.0,Male,White
+4807,43.0,Male,White
+4808,26.0,Male,White
+4809,56.0,Male,White
+4810,49.0,Female,"Hispanic, White"
+4811,45.0,Male,White
+4812,50.0,Male,Black
+4813,34.0,Male,White
+4814,51.0,Male,White
+4815,27.0,Male,White
+4816,27.0,Male,White
+4817,53.0,Female,White
+4818,43.0,Female,White
+4819,21.0,Male,White
+4820,34.0,Male,"Hispanic, White"
+4821,37.0,Male,White
+4822,24.0,Male,White
+4823,59.0,Female,White
+4824,40.0,Male,White
+4825,26.0,Male,White
+4826,64.0,Female,White
+4827,38.0,Male,"Hispanic, White"
+4828,20.0,Male,White
+4829,28.0,Male,White
+4830,46.0,Male,White
+4831,20.0,Female,White
+4832,49.0,Male,Black
+4833,57.0,Female,White
+4834,45.0,Male,White
+4835,46.0,Male,"Hispanic, White"
+4836,62.0,Female,White
+4837,39.0,Male,White
+4838,55.0,Male,"Hispanic, White"
+4839,33.0,Male,Black
+4840,31.0,Male,White
+4841,67.0,Female,White
+4842,31.0,Male,White
+4843,55.0,Male,White
+4844,53.0,Male,White
+4845,55.0,Male,"Hispanic, Black"
+4846,29.0,Male,White
+4847,47.0,Male,Unknown
+4848,51.0,Male,White
+4849,48.0,Male,White
+4850,24.0,Male,Black
+4851,54.0,Male,White
+4852,54.0,Male,White
+4853,44.0,Male,White
+4854,30.0,Male,White
+4855,31.0,Male,White
+4856,33.0,Male,Black
+4857,30.0,Female,White
+4858,33.0,Male,White
+4859,54.0,Male,Black
+4860,56.0,Male,Black
+4861,44.0,Male,White
+4862,56.0,Male,White
+4863,43.0,Female,White
+4864,27.0,Female,White
+4865,58.0,Male,White
+4866,55.0,Male,White
+4867,55.0,Female,White
+4868,53.0,Male,Black
+4869,45.0,Male,White
+4870,38.0,Male,White
+4871,44.0,Male,White
+4872,54.0,Male,White
+4873,61.0,Male,White
+4874,41.0,Female,White
+4875,52.0,Male,White
+4876,25.0,Female,White
+4877,37.0,Male,Black
+4878,50.0,Male,Black
+4879,26.0,Female,White
+4880,29.0,Male,White
+4881,40.0,Male,"Hispanic, White"
+4882,34.0,Female,White
+4883,34.0,Male,Black
+4884,25.0,Male,White
+4885,32.0,Male,White
+4886,34.0,Male,White
+4887,,,
+4888,51.0,Female,White
+4889,56.0,Female,Black
+4890,26.0,Female,White
+4891,54.0,Male,White
+4892,26.0,Female,White
+4893,29.0,Male,White
+4894,22.0,Male,White
+4895,73.0,Male,White
+4896,39.0,Male,Black
+4897,35.0,Female,White
+4898,51.0,Female,White
+4899,45.0,Male,White
+4900,24.0,Male,White
+4901,58.0,Male,Black
+4902,52.0,Male,Black
+4903,36.0,Male,White
+4904,38.0,Male,White
+4905,39.0,Male,White
+4906,31.0,Female,White
+4907,51.0,Male,"Hispanic, White"
+4908,60.0,Male,"Hispanic, White"
+4909,43.0,Male,White
+4910,39.0,Male,"Hispanic, White"
+4911,40.0,Female,White
+4912,45.0,Male,"Hispanic, White"
+4913,69.0,Male,White
+4914,42.0,Male,White
+4915,32.0,Male,White
+4916,55.0,Female,White
+4917,34.0,Male,White
+4918,32.0,Male,White
+4919,54.0,Male,Black
+4920,34.0,Male,White
+4921,21.0,Female,Asian Indian
+4922,64.0,Male,White
+4923,60.0,Female,White
+4924,36.0,Male,White
+4925,34.0,Male,White
+4926,40.0,Female,White
+4927,30.0,Male,White
+4928,50.0,Male,White
+4929,50.0,Female,White
+4930,65.0,Male,White
+4931,42.0,Female,White
+4932,26.0,Female,White
+4933,39.0,Male,"Hispanic, White"
+4934,39.0,Male,White
+4935,51.0,Male,White
+4936,57.0,Female,White
+4937,23.0,Female,White
+4938,57.0,Male,White
+4939,21.0,Male,White
+4940,49.0,Male,White
+4941,59.0,Female,White
+4942,58.0,Male,White
+4943,57.0,Male,Black
+4944,46.0,Female,Black
+4945,30.0,Male,White
+4946,54.0,Male,White
+4947,40.0,Male,White
+4948,30.0,Female,White
+4949,40.0,Male,"Hispanic, White"
+4950,42.0,Male,White
+4951,20.0,Male,White
+4952,50.0,Male,White
+4953,48.0,Female,Black
+4954,27.0,Female,White
+4955,34.0,Male,White
+4956,49.0,Female,Black
+4957,56.0,Male,White
+4958,39.0,Male,White
+4959,37.0,Male,White
+4960,40.0,Female,White
+4961,30.0,Male,White
+4962,26.0,Male,Black
+4963,24.0,Male,White
+4964,37.0,Male,White
+4965,44.0,Male,White
+4966,40.0,Male,White
+4967,48.0,Female,White
+4968,32.0,Female,White
+4969,56.0,Female,White
+4970,56.0,Male,Black
+4971,51.0,Male,White
+4972,61.0,Male,Black
+4973,59.0,Female,White
+4974,57.0,Male,White
+4975,20.0,Male,White
+4976,30.0,Male,White
+4977,61.0,Female,White
+4978,35.0,Male,White
+4979,50.0,Male,White
+4980,46.0,Female,White
+4981,31.0,Male,White
+4982,50.0,Male,White
+4983,49.0,Female,White
+4984,64.0,Male,Black
+4985,33.0,Male,White
+4986,63.0,Male,White
+4987,39.0,Female,White
+4988,49.0,Male,White
+4989,49.0,Male,White
+4990,58.0,Male,White
+4991,58.0,Female,White
+4992,52.0,Male,White
+4993,30.0,Male,White
+4994,34.0,Male,White
+4995,62.0,Male,White
+4996,33.0,Male,White
+4997,24.0,Male,White
+4998,37.0,Male,"Hispanic, White"
+4999,23.0,Male,White
+5000,65.0,Female,White
+5001,22.0,Male,White
+5002,54.0,Male,"Hispanic, White"
+5003,44.0,Male,White
+5004,33.0,Female,White
+5005,58.0,Male,White
+5006,34.0,Male,White
+5007,40.0,Male,Black
+5008,41.0,Male,White
+5009,33.0,Male,White
+5010,55.0,Male,White
+5011,21.0,Male,White
+5012,45.0,Female,White
+5013,49.0,Male,Black
+5014,38.0,Male,White
+5015,51.0,Male,White
+5016,37.0,Male,White
+5017,50.0,Male,White
+5018,35.0,Male,White
+5019,29.0,Male,White
+5020,54.0,Male,White
+5021,60.0,Male,White
+5022,29.0,Male,White
+5023,32.0,Male,"Hispanic, White"
+5024,47.0,Male,"Hispanic, White"
+5025,30.0,Male,White
+5026,54.0,Female,White
+5027,60.0,Male,White
+5028,36.0,Male,White
+5029,44.0,Male,White
+5030,33.0,Female,White
+5031,41.0,Male,White
+5032,42.0,Male,White
+5033,30.0,Female,White
+5034,29.0,Male,White
+5035,36.0,Female,White
+5036,31.0,Male,White
+5037,39.0,Male,Black
+5038,24.0,Male,White
+5039,33.0,Male,White
+5040,37.0,Male,White
+5041,42.0,Male,White
+5042,48.0,Male,"Hispanic, White"
+5043,49.0,Male,"Hispanic, White"
+5044,39.0,Male,White
+5045,52.0,Male,White
+5046,34.0,Male,White
+5047,31.0,Female,White
+5048,31.0,Female,White
+5049,27.0,Male,"Hispanic, White"
+5050,53.0,Male,"Hispanic, White"
+5051,49.0,Male,White
+5052,26.0,Female,White
+5053,57.0,Male,White
+5054,55.0,Male,"Hispanic, White"
+5055,53.0,Male,"Hispanic, Black"
+5056,26.0,Male,"Hispanic, White"
+5057,52.0,Male,White
+5058,22.0,Male,Unknown
+5059,43.0,Female,White
+5060,42.0,Male,White
+5061,23.0,Male,White
+5062,26.0,Male,White
+5063,49.0,Female,White
+5064,53.0,Female,White
+5065,50.0,Female,White
+5066,47.0,Female,White
+5067,51.0,Female,Black
+5068,21.0,Male,White
+5069,50.0,Male,"Hispanic, White"
+5070,23.0,Male,"Hispanic, White"
+5071,46.0,Female,White
+5072,54.0,Female,Black
+5073,37.0,Male,White
+5074,37.0,Female,White
+5075,22.0,Male,"Hispanic, White"
+5076,19.0,Female,Black
+5077,61.0,Male,White
+5078,29.0,Female,White
+5079,45.0,Male,White
+5080,47.0,Female,White
+5081,26.0,Male,White
+5082,47.0,Male,White
+5083,58.0,Female,White
+5084,31.0,Male,White
+5085,51.0,Male,White
+5086,71.0,Male,"Hispanic, White"
+5087,21.0,Male,White
+5088,35.0,Male,White
+5089,35.0,Male,Other
+5090,33.0,Female,Black
+5091,23.0,Female,"Hispanic, White"
+5092,32.0,Male,White
+5093,29.0,Male,White
+5094,16.0,Male,White
+5095,37.0,Male,White
+5096,54.0,Female,White
+5097,28.0,Female,White
+5098,56.0,Male,White
+5099,45.0,Female,White
+5100,43.0,Male,White
+5101,21.0,Male,White
+5102,30.0,Male,White
+5103,33.0,Male,White
+5104,33.0,Male,White
